@@ -5,7 +5,8 @@
         "designation":"Chairman",
         "qualification":"PGD in Management, BSc in CSE, Diploma in Civil Engineering",
         "message":"Art of living, orientation with modern technologies, one student one laptop, collaboration with around 400 famous foreign universities and international participation through a series of exchange programs have equipped our students with a change together mentality and ability. Our students can uplift themselves in a three dimensional relationship among the students, guardians & faculty. We are trying to develop the university with international mindset, global mobility, faculty exchange, students’ orientation, events, industry academia relationship, lecture series, innovation and entrepreneurship, among others.With the support from its students & faculty members, now DIU one of the top ranked universities in Bangladesh evaluated by QS World University Rankings® 2019. It is also in the prestigious position in Times Higher Education (THE) University Impact Rankings-2019 and in the top position among all universities in South Asian Region and the top ranking university in Bangladesh in the UI GreenMetric World University Rankings in 2018. Prestigious ASOCIO 2018 ICT Education Award and World Congress of IT (WCIT) 2017 Merit Award, as well as involvement with many international platforms, among others, AUAP, AUPF, GEN, IAUP, ACU, IAU, IEEE, ISTQB, Kauffman and Magna Charta Observatory keep us on the right track.",
-        "image":"https://daffodilvarsity.edu.bd/photos/shares/message/drsabur.png"
+        "image":"https://daffodilvarsity.edu.bd/photos/shares/message/drsabur.png",
+        "slug":"chairman"
     },
     {
         "_id":"2",
@@ -13,7 +14,8 @@
         "designation":"Principal",
         "qualification":"BSc in CSE",
         "message":"As the principal of Rangpur Engineering College I would like to welcome you to the arena of science, technology, and innovation. Rangpur Engineering College has the resources at your disposal for you to nurture your future life. Come, learn and be successful Engineers.",
-        "image":"https://daffodilvarsity.edu.bd/photos/shares/message/drsabur.png"
+        "image":"https://daffodilvarsity.edu.bd/photos/shares/message/drsabur.png",
+        "slug":"principal"
     },
     {
         "_id":"3",
@@ -21,6 +23,7 @@
         "designation":"Vice Principal",
         "qualification":"BSc in Physics",
         "message":"As the principal of Rangpur Engineering College I would like to welcome you to the arena of science, technology, and innovation. Rangpur Engineering College has the resources at your disposal for you to nurture your future life. Come, learn and be successful Engineers.",
-        "image":"https://daffodilvarsity.edu.bd/photos/shares/message/drsabur.png"
+        "image":"https://daffodilvarsity.edu.bd/photos/shares/message/drsabur.png",
+        "slug":"vice-principal"
     }
 ]
