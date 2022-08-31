@@ -1,0 +1,75 @@
+[
+    {
+        "_id":"1",
+        "name":"Faruk Hosain",
+        "designation":"Lecturer",
+        "qualification":"BSc in CSE",
+        "dept":"CSE",
+        "email":"fa@fka.cs",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"2",
+        "name":"Faruk Hosain1",
+        "designation":"Lecturer1",
+        "qualification":"BSc in CSE1",
+        "dept":"CSE",
+        "email":"fa@fka.cs",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"3",
+        "name":"Faruk Hosain3",
+        "designation":"Lecturer3",
+        "qualification":"BSc in CSE3",
+        "dept":"EEE",
+        "email":"fa@fka.cs",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"4",
+        "name":"Faruk Hosain4",
+        "designation":"Lecturer4",
+        "qualification":"BSc in CSE4",
+        "dept":"ME",
+        "email":"fa@fka.cs",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"5",
+        "name":"Faruk Hosain5",
+        "designation":"Lecturer5",
+        "qualification":"BSc in CSE5",
+        "dept":"TE",
+        "email":"fa@fka.cs",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"6",
+        "name":"Faruk Hosain6",
+        "designation":"Lecturer6",
+        "qualification":"BSc in CSE6",
+        "dept":"CE",
+        "email":"fa@fka.cs",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"7",
+        "name":"Faruk Hosain7",
+        "designation":"Lecturer7",
+        "qualification":"BSc in CSE7",
+        "dept":"TE",
+        "email":"fa@fka.cs",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"8",
+        "name":"Faruk Hosain8",
+        "designation":"Lecturer8",
+        "qualification":"BSc in CSE8",
+        "dept":"CSE",
+        "email":"fa@fka.cs",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    }
+    
+]
