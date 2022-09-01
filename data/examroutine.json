@@ -1,44 +1,44 @@
 [
     {
         "_id":"1",
-        "examName":"ইলেকট্রিক্যাল এন্ড ইলেক. ইঞ্জি. বিভাগের পার্ট-৩ জোড় সেমি/২০(ব্যাচ-২) পরীক্ষার রুটিন",
-        "routineLink":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2018/03/1979.pdf",
+        "title":"ইলেকট্রিক্যাল এন্ড ইলেক. ইঞ্জি. বিভাগের পার্ট-৩ জোড় সেমি/২০(ব্যাচ-২) পরীক্ষার রুটিন",
+        "link":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2018/03/1979.pdf",
         "date":"17.8.22"
     },
     {
         "_id":"2",
-        "examName":"ইলেকট্রিক্যাল এন্ড ইলেক. ইঞ্জি. বিভাগের পার্ট-৩ জোড় সেমি/২০(ব্যাচ-১) পরীক্ষার রুটিন",
-        "routineLink":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2018/03/1978.pdf",
+        "title":"ইলেকট্রিক্যাল এন্ড ইলেক. ইঞ্জি. বিভাগের পার্ট-৩ জোড় সেমি/২০(ব্যাচ-১) পরীক্ষার রুটিন",
+        "link":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2018/03/1978.pdf",
         "date":"17.8.22"
     },
     {
         "_id":"3",
-        "examName":"কম্পিউটার সায়েন্স এন্ড ইঞ্জি. বিভাগের পার্ট-১ অড সেমি/২১ পুন:ভর্তিকৃত ছাত্র/ছাত্রীদের জন্য পরীক্ষার রুটিন",
-        "routineLink":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2018/03/1779.pdf",
+        "title":"কম্পিউটার সায়েন্স এন্ড ইঞ্জি. বিভাগের পার্ট-১ অড সেমি/২১ পুন:ভর্তিকৃত ছাত্র/ছাত্রীদের জন্য পরীক্ষার রুটিন",
+        "link":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2018/03/1779.pdf",
         "date":"24.7.22"
     },
     {
         "_id":"4",
-        "examName":"কম্পিউটার সায়েন্স এন্ড ইঞ্জি. বিভাগের পার্ট-১ অড সেমি/২১ পরীক্ষার রুটিন",
-        "routineLink":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2018/03/1546.pdf",
+        "title":"কম্পিউটার সায়েন্স এন্ড ইঞ্জি. বিভাগের পার্ট-১ অড সেমি/২১ পরীক্ষার রুটিন",
+        "link":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2018/03/1546.pdf",
         "date":"14.6.22"
     },
     {
         "_id":"5",
-        "examName":"রাবি অধিভূক্ত ইঞ্জিনিয়ারিং কলেজ সমূহে সিভিল ইঞ্জি. বিভাগের পার্ট-১ অড সেমি/২১ পরীক্ষার রুটিন",
-        "routineLink":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2018/03/1530.pdf",
+        "title":"রাবি অধিভূক্ত ইঞ্জিনিয়ারিং কলেজ সমূহে সিভিল ইঞ্জি. বিভাগের পার্ট-১ অড সেমি/২১ পরীক্ষার রুটিন",
+        "link":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2018/03/1530.pdf",
         "date":"14.6.22"
     },
     {
         "_id":"6",
-        "examName":"রাবি অধিভূক্ত ইঞ্জিনিয়ারিং কলেজ সমূহে টেক্সটাইল ইঞ্জি. বিষয়ের পার্ট-১ অড সেমি/২১ পরীক্ষার রুটিন",
-        "routineLink":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2018/03/1247.pdf",
+        "title":"রাবি অধিভূক্ত ইঞ্জিনিয়ারিং কলেজ সমূহে টেক্সটাইল ইঞ্জি. বিষয়ের পার্ট-১ অড সেমি/২১ পরীক্ষার রুটিন",
+        "link":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2018/03/1247.pdf",
         "date":"19.5.22"
     },
     {
         "_id":"7",
-        "examName":"রাবি অধিভূক্ত ইঞ্জিনিয়ারিং কলেজ সমূহে মেকানিক্যাল ইঞ্জি. বিভাগের পার্ট-১ অড সেমি/২১ পরীক্ষার রুটিন",
-        "routineLink":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2018/03/1457-2.pdf",
+        "title":"রাবি অধিভূক্ত ইঞ্জিনিয়ারিং কলেজ সমূহে মেকানিক্যাল ইঞ্জি. বিভাগের পার্ট-১ অড সেমি/২১ পরীক্ষার রুটিন",
+        "link":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2018/03/1457-2.pdf",
         "date":"6.6.22"
     }
 ]
