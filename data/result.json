@@ -1,0 +1,38 @@
+[
+    {
+        "_id":"1",
+        "title":"B.Sc. Engineering Part-3 Final -2020 (CSE)",
+        "date":"06.07.2022",
+        "link":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2016/11/B.Sc_.-Engineering-Part-3-Final-2020-Computer-Science-Engineering.pdf"
+    },
+    {
+        "_id":"2",
+        "title":"B.Sc. Engineering Part-2 2020 (CSE)",
+        "date":"12.06.2022",
+        "link":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2016/11/B.Sc_.-Engneering-Part-2-2020-Computer-Science-and-Engineering.pdf"
+    },
+    {
+        "_id":"3",
+        "title":"B.Sc. Engg Part-1 Final-2020 (CSE)",
+        "date":"01.06.2022",
+        "link":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2016/11/B.Sc_.-Engg-Part-1-Final-2020-Computer-Science-Engineering.pdf"
+    },
+    {
+        "_id":"4",
+        "title":"B.Sc. Engg Part-1-2019 (CSE)",
+        "date":"01.04.2021",
+        "link":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2016/11/B.Sc_.-Engg-Part-1-2019-Compter-Science-and-Engineering.pdf"
+    },
+    {
+        "_id":"5",
+        "title":"B.Sc. in Textile Engineering Part-2-2020",
+        "date":"04.08.2022",
+        "link":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2017/05/B.Scin-Textile-Engineering-Part-2-2020-Imperial-College-Engineering.pdf"
+    },
+    {
+        "_id":"6",
+        "title":"B.Sc.in Civil Engineering Part-1 2020",
+        "date":"29.06.2022",
+        "link":"http://www.ru.ac.bd/examcont/wp-content/uploads/sites/124/2017/05/B.Sc_.in-Civil-Engineering-Part-1-2020.pdf"
+    }
+]
