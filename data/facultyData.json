@@ -1,0 +1,173 @@
+[
+    {
+        "_id":"1",
+        "code":"cse",
+        "name":"Computer Science & Engineering",
+        "description1":"The Department of Computer Science and Engineering (CSE), Rangpur Engineering College, Rangpur is one of the leading department in Bangladesh. The campus is located at dhokigonj, mahigonj , Rangpur, beside the Rangpur-kurigram highway. The Department is primarily committed to serving students who have set a goal of obtaining a degree in computer science and engineering.",
+        "description2":"The computer science graduate program offers coursework from a broad spectrum of theoretical and specific computer science applications, combined with research opportunities in nearly all areas of the field.",
+        "description3":"The CSE department offers courses in the following areas: algorithms and theoretical computer science; numerical, parallel, and high-performance computing; distributed computing and systems; artificial intelligence, robotics, and computer vision; databases and data mining; human-computer interaction and information systems; graphics and visualization; software engineering and programming languages; computer architecture and compilers; networking; and computer security.List of faculty member",
+        "labs":[
+            {
+                "labid":"l1",
+                "labName":"Software Lab",
+                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+            },
+            {
+                "labid":"l2",
+                "labName":"Network Lab",
+                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
+            },{
+                "labid":"l3",
+                "labName":"Communication Lab",
+                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+            },
+            {
+                "labid":"l4",
+                "labName":"Network Lab",
+                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
+            },{
+                "labid":"l5",
+                "labName":"Communication Lab",
+                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+            }
+        ],
+        "teachersProfile":""
+    },
+    {
+        "_id":"2",
+        "code":"eee",
+        "name":"Electrical & Electronics Engineering",
+        "description1":"The Department of Computer Science and Engineering (CSE), Rangpur Engineering College, Rangpur is one of the leading department in Bangladesh. The campus is located at dhokigonj, mahigonj , Rangpur, beside the Rangpur-kurigram highway. The Department is primarily committed to serving students who have set a goal of obtaining a degree in computer science and engineering.",
+        "description2":"The computer science graduate program offers coursework from a broad spectrum of theoretical and specific computer science applications, combined with research opportunities in nearly all areas of the field.",
+        "description3":"The CSE department offers courses in the following areas: algorithms and theoretical computer science; numerical, parallel, and high-performance computing; distributed computing and systems; artificial intelligence, robotics, and computer vision; databases and data mining; human-computer interaction and information systems; graphics and visualization; software engineering and programming languages; computer architecture and compilers; networking; and computer security.List of faculty member",
+        "labs":[
+            {
+                "labid":"l1",
+                "labName":"EEE Lab",
+                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+            },
+            {
+                "labid":"l2",
+                "labName":"Network Lab",
+                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
+            },{
+                "labid":"l3",
+                "labName":"Communication Lab",
+                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+            },
+            {
+                "labid":"l4",
+                "labName":"EE2 Lab",
+                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
+            },{
+                "labid":"l5",
+                "labName":"Circuit Lab",
+                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+            }
+        ],
+        "teachersProfile":""
+    },
+    {
+        "_id":"3",
+        "code":"te",
+        "name":"Textile Engineering",
+        "description1":"The Department of Computer Science and Engineering (CSE), Rangpur Engineering College, Rangpur is one of the leading department in Bangladesh. The campus is located at dhokigonj, mahigonj , Rangpur, beside the Rangpur-kurigram highway. The Department is primarily committed to serving students who have set a goal of obtaining a degree in computer science and engineering.",
+        "description2":"The computer science graduate program offers coursework from a broad spectrum of theoretical and specific computer science applications, combined with research opportunities in nearly all areas of the field.",
+        "description3":"The CSE department offers courses in the following areas: algorithms and theoretical computer science; numerical, parallel, and high-performance computing; distributed computing and systems; artificial intelligence, robotics, and computer vision; databases and data mining; human-computer interaction and information systems; graphics and visualization; software engineering and programming languages; computer architecture and compilers; networking; and computer security.List of faculty member",
+        "labs":[
+            {
+                "labid":"l1",
+                "labName":"Software Lab",
+                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+            },
+            {
+                "labid":"l2",
+                "labName":"Network Lab",
+                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
+            },{
+                "labid":"l3",
+                "labName":"Communication Lab",
+                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+            },
+            {
+                "labid":"l4",
+                "labName":"Network Lab",
+                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
+            },{
+                "labid":"l5",
+                "labName":"Communication Lab",
+                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+            }
+        ],
+        "teachersProfile":""
+    },
+    {
+        "_id":"1",
+        "code":"ce",
+        "name":"Civil Engineering",
+        "description1":"The Department of Computer Science and Engineering (CSE), Rangpur Engineering College, Rangpur is one of the leading department in Bangladesh. The campus is located at dhokigonj, mahigonj , Rangpur, beside the Rangpur-kurigram highway. The Department is primarily committed to serving students who have set a goal of obtaining a degree in computer science and engineering.",
+        "description2":"The computer science graduate program offers coursework from a broad spectrum of theoretical and specific computer science applications, combined with research opportunities in nearly all areas of the field.",
+        "description3":"The CSE department offers courses in the following areas: algorithms and theoretical computer science; numerical, parallel, and high-performance computing; distributed computing and systems; artificial intelligence, robotics, and computer vision; databases and data mining; human-computer interaction and information systems; graphics and visualization; software engineering and programming languages; computer architecture and compilers; networking; and computer security.List of faculty member",
+        "labs":[
+            {
+                "labid":"l1",
+                "labName":"Software Lab",
+                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+            },
+            {
+                "labid":"l2",
+                "labName":"Civil Lab",
+                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
+            },{
+                "labid":"l3",
+                "labName":"CD# Lab",
+                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+            },
+            {
+                "labid":"l4",
+                "labName":"CE1 Lab",
+                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
+            },{
+                "labid":"l5",
+                "labName":"CE Lab",
+                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+            }
+        ],
+        "teachersProfile":""
+    },
+    {
+        "_id":"1",
+        "code":"me",
+        "name":"Mechanical Engineering",
+        "description1":"The Department of Computer Science and Engineering (CSE), Rangpur Engineering College, Rangpur is one of the leading department in Bangladesh. The campus is located at dhokigonj, mahigonj , Rangpur, beside the Rangpur-kurigram highway. The Department is primarily committed to serving students who have set a goal of obtaining a degree in computer science and engineering.",
+        "description2":"The computer science graduate program offers coursework from a broad spectrum of theoretical and specific computer science applications, combined with research opportunities in nearly all areas of the field.",
+        "description3":"The CSE department offers courses in the following areas: algorithms and theoretical computer science; numerical, parallel, and high-performance computing; distributed computing and systems; artificial intelligence, robotics, and computer vision; databases and data mining; human-computer interaction and information systems; graphics and visualization; software engineering and programming languages; computer architecture and compilers; networking; and computer security.List of faculty member",
+        "labs":[
+            {
+                "labid":"l1",
+                "labName":"Machine Lab",
+                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+            },
+            {
+                "labid":"l2",
+                "labName":"Network Lab",
+                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
+            },{
+                "labid":"l3",
+                "labName":"ME2 Lab",
+                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+            },
+            {
+                "labid":"l4",
+                "labName":"Network Lab",
+                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
+            },{
+                "labid":"l5",
+                "labName":"ME4 Lab",
+                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+            }
+        ],
+        "teachersProfile":""
+    }
+    
+]
