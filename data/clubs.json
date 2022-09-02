@@ -1,0 +1,70 @@
+[
+    {
+        "_id":"1",
+        "type":"computer-club",
+        "name":"Imperial Computing Access Nation (ICAN)",
+        "description1":"The Computer Club is an educational and fun group. The club explores both computer architecture and new application software.  We try to help anyone with his or her computer problems.  We also know quite a bit about programming and networking. Our mission is to promote computer programming and to expand the scope of computer knowledge within this school.",
+        "description2":"North South University Computer and Engineering Club (NSU CEC) is the one and only Engineering club in ECE department of North South University, established in Fall 2015, affiliated from three of the most reputed clubs of NSU, which are NSU Computer Club (NSUCC), NSU Wireless Forum (NSU WF) and NSU Society of Science, Engineering and Technology (NSU SSET). NSUCEC has devoted itself towards one large goal, ‘Creating Tech Leaders of Tomorrow’, with all the active members of CC, WF, and SSET. The main objective of NSUCEC is to promote the ECE department of NSU to offer an extensive study of the IT and Telecom industries of Bangladesh through seminars, workshops, publications and study tours. It is also the mission of NSUCEC to create a relationship between industries and the academy.",
+        "description3":"NSU CEC organized Cybernauts 2018 from 18th to 25th March 2018 with segments including National Programming Contest, Engineering Project Showcase (Senior and Junior Level), Line Follower Robot Contest and Cyber Athletics.",
+        "clubPhoto":[
+            "https://i.pinimg.com/originals/bd/ab/9b/bdab9b2b2d70653374a4022eb47b3f21.png",
+            "https://sites.google.com/a/rswsu.org/pes/_/rsrc/1534261908705/classrooms/library/computer-club---links/computer%20kids.jpeg?height=265&width=320",
+            "https://1.bp.blogspot.com/-bzglJTX9YfQ/YVBNL0giykI/AAAAAAAAGBQ/ljzmDQYkdkgWV_Eu8WMp6SoG_YyoCQKHgCLcBGAsYHQ/s16000/setting%2Bup%2Ba%2Bcomputer%2Bclub%2Bin%2Byour%2Bschool-rz.jpg",
+            "https://img1.wsimg.com/isteam/stock/1132",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKQrXCiyfLxDl3HkAaAvjB73JR3IAev6mZIii0cHpdjJ90swN3TOPaGDN-bkBAnN8F9m8&usqp=CAU"
+        ],
+        "fbLink":"facebook.com",
+        "webLink":"web.com"
+    },
+    {
+        "_id":"2",
+        "type":"cultural-club",
+        "name":"Imperial Cultural Club",
+        "description1":"The Computer Club is an educational and fun group. The club explores both computer architecture and new application software.  We try to help anyone with his or her computer problems.  We also know quite a bit about programming and networking. Our mission is to promote computer programming and to expand the scope of computer knowledge within this school.",
+        "description2":"North South University Computer and Engineering Club (NSU CEC) is the one and only Engineering club in ECE department of North South University, established in Fall 2015, affiliated from three of the most reputed clubs of NSU, which are NSU Computer Club (NSUCC), NSU Wireless Forum (NSU WF) and NSU Society of Science, Engineering and Technology (NSU SSET). NSUCEC has devoted itself towards one large goal, ‘Creating Tech Leaders of Tomorrow’, with all the active members of CC, WF, and SSET. The main objective of NSUCEC is to promote the ECE department of NSU to offer an extensive study of the IT and Telecom industries of Bangladesh through seminars, workshops, publications and study tours. It is also the mission of NSUCEC to create a relationship between industries and the academy.",
+        "description3":"NSU CEC organized Cybernauts 2018 from 18th to 25th March 2018 with segments including National Programming Contest, Engineering Project Showcase (Senior and Junior Level), Line Follower Robot Contest and Cyber Athletics.",
+        "clubPhoto":[
+            "https://i0.wp.com/aiubcc.org/wp-content/uploads/2020/12/1-Webp.net-compress-image-scaled.jpg?fit=1024%2C683&ssl=1",
+            "https://i.pinimg.com/originals/bd/ab/9b/bdab9b2b2d70653374a4022eb47b3f21.png",
+            "https://sites.google.com/a/rswsu.org/pes/_/rsrc/1534261908705/classrooms/library/computer-club---links/computer%20kids.jpeg?height=265&width=320",
+            "https://img1.wsimg.com/isteam/stock/1132",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKQrXCiyfLxDl3HkAaAvjB73JR3IAev6mZIii0cHpdjJ90swN3TOPaGDN-bkBAnN8F9m8&usqp=CAU"
+        ],
+        "fbLink":"facebook.com",
+        "webLink":"web.com"
+    },
+    {
+        "_id":"3",
+        "type":"sports-club",
+        "name":"Imperial Sports Club",
+        "description1":"The Computer Club is an educational and fun group. The club explores both computer architecture and new application software.  We try to help anyone with his or her computer problems.  We also know quite a bit about programming and networking. Our mission is to promote computer programming and to expand the scope of computer knowledge within this school.",
+        "description2":"North South University Computer and Engineering Club (NSU CEC) is the one and only Engineering club in ECE department of North South University, established in Fall 2015, affiliated from three of the most reputed clubs of NSU, which are NSU Computer Club (NSUCC), NSU Wireless Forum (NSU WF) and NSU Society of Science, Engineering and Technology (NSU SSET). NSUCEC has devoted itself towards one large goal, ‘Creating Tech Leaders of Tomorrow’, with all the active members of CC, WF, and SSET. The main objective of NSUCEC is to promote the ECE department of NSU to offer an extensive study of the IT and Telecom industries of Bangladesh through seminars, workshops, publications and study tours. It is also the mission of NSUCEC to create a relationship between industries and the academy.",
+        "description3":"NSU CEC organized Cybernauts 2018 from 18th to 25th March 2018 with segments including National Programming Contest, Engineering Project Showcase (Senior and Junior Level), Line Follower Robot Contest and Cyber Athletics.",
+        "clubPhoto":[
+            "https://i0.wp.com/aiubcc.org/wp-content/uploads/2020/12/1-Webp.net-compress-image-scaled.jpg?fit=1024%2C683&ssl=1",
+            "https://i.pinimg.com/originals/bd/ab/9b/bdab9b2b2d70653374a4022eb47b3f21.png",
+            "https://sites.google.com/a/rswsu.org/pes/_/rsrc/1534261908705/classrooms/library/computer-club---links/computer%20kids.jpeg?height=265&width=320",
+            "https://img1.wsimg.com/isteam/stock/1132",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKQrXCiyfLxDl3HkAaAvjB73JR3IAev6mZIii0cHpdjJ90swN3TOPaGDN-bkBAnN8F9m8&usqp=CAU"
+        ],
+        "fbLink":"facebook.com",
+        "webLink":"web.com"
+    },
+    {
+        "_id":"4",
+        "type":"textile-club",
+        "name":"Imperial Textile Club",
+        "description1":"The Computer Club is an educational and fun group. The club explores both computer architecture and new application software.  We try to help anyone with his or her computer problems.  We also know quite a bit about programming and networking. Our mission is to promote computer programming and to expand the scope of computer knowledge within this school.",
+        "description2":"North South University Computer and Engineering Club (NSU CEC) is the one and only Engineering club in ECE department of North South University, established in Fall 2015, affiliated from three of the most reputed clubs of NSU, which are NSU Computer Club (NSUCC), NSU Wireless Forum (NSU WF) and NSU Society of Science, Engineering and Technology (NSU SSET). NSUCEC has devoted itself towards one large goal, ‘Creating Tech Leaders of Tomorrow’, with all the active members of CC, WF, and SSET. The main objective of NSUCEC is to promote the ECE department of NSU to offer an extensive study of the IT and Telecom industries of Bangladesh through seminars, workshops, publications and study tours. It is also the mission of NSUCEC to create a relationship between industries and the academy.",
+        "description3":"NSU CEC organized Cybernauts 2018 from 18th to 25th March 2018 with segments including National Programming Contest, Engineering Project Showcase (Senior and Junior Level), Line Follower Robot Contest and Cyber Athletics.",
+        "clubPhoto":[
+            "https://i0.wp.com/aiubcc.org/wp-content/uploads/2020/12/1-Webp.net-compress-image-scaled.jpg?fit=1024%2C683&ssl=1",
+            "https://i.pinimg.com/originals/bd/ab/9b/bdab9b2b2d70653374a4022eb47b3f21.png",
+            "https://sites.google.com/a/rswsu.org/pes/_/rsrc/1534261908705/classrooms/library/computer-club---links/computer%20kids.jpeg?height=265&width=320",
+            "https://img1.wsimg.com/isteam/stock/1132",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKQrXCiyfLxDl3HkAaAvjB73JR3IAev6mZIii0cHpdjJ90swN3TOPaGDN-bkBAnN8F9m8&usqp=CAU"
+        ],
+        "fbLink":"facebook.com",
+        "webLink":"web.com"
+    }
+]
