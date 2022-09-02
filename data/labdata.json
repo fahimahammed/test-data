@@ -1,0 +1,47 @@
+[
+    {
+        "_id":"1",
+        "name":"Computer Software & Simulation Lab",
+        "image":"https://i.ibb.co/K0jqdBK/lab4.jpg"
+    },
+    {
+        "_id":"3",
+        "name":"Computer Hardware Lab",
+        "image":"https://i.ibb.co/cXwKcZ4/lab2.jpg"
+    },
+    {
+        "_id":"4",
+        "name":"Communication Lab",
+        "image":"https://i.ibb.co/RNg8grW/lab6.jpg"
+    },
+    {
+        "_id":"5",
+        "name":"PLC HMI & SCADA Trainer",
+        "image":"https://i.ibb.co/9hKwry4/lab1.jpg"
+    },
+    {
+        "_id":"2",
+        "name":"Mechanical Workshop",
+        "image":"https://i.ibb.co/xD7grR0/lab15.jpg"
+    },
+    {
+        "_id":"6",
+        "name":"Satelite Communication & Trainer System",
+        "image":"https://i.ibb.co/jMzmXcb/lab7.jpg"
+    },
+    {
+        "_id":"8",
+        "name":"Electrical & Electronics Lab",
+        "image":"https://i.ibb.co/5F90TQ5/lab10.jpg"
+    },
+    {
+        "_id":"9",
+        "name":"Electrical Lab",
+        "image":"https://i.ibb.co/jRSx4MT/lab11.jpg"
+    },
+    {
+        "_id":"10",
+        "name":"Textile Lab",
+        "image":"https://i.ibb.co/Y30b1gt/lab9.jpg"
+    }
+]
