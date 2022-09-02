@@ -2,6 +2,7 @@
     {
         "_id":"1",
         "type":"computer-club",
+        "logo":"https://www.logolynx.com/images/logolynx/93/938e91ea73b20ed0c3aca52a3b1815a9.png",
         "name":"Imperial Computing Access Nation (ICAN)",
         "description1":"The Computer Club is an educational and fun group. The club explores both computer architecture and new application software.  We try to help anyone with his or her computer problems.  We also know quite a bit about programming and networking. Our mission is to promote computer programming and to expand the scope of computer knowledge within this school.",
         "description2":"North South University Computer and Engineering Club (NSU CEC) is the one and only Engineering club in ECE department of North South University, established in Fall 2015, affiliated from three of the most reputed clubs of NSU, which are NSU Computer Club (NSUCC), NSU Wireless Forum (NSU WF) and NSU Society of Science, Engineering and Technology (NSU SSET). NSUCEC has devoted itself towards one large goal, ‘Creating Tech Leaders of Tomorrow’, with all the active members of CC, WF, and SSET. The main objective of NSUCEC is to promote the ECE department of NSU to offer an extensive study of the IT and Telecom industries of Bangladesh through seminars, workshops, publications and study tours. It is also the mission of NSUCEC to create a relationship between industries and the academy.",
@@ -19,6 +20,7 @@
     {
         "_id":"2",
         "type":"cultural-club",
+        "logo":"https://www.logolynx.com/images/logolynx/93/938e91ea73b20ed0c3aca52a3b1815a9.png",
         "name":"Imperial Cultural Club",
         "description1":"The Computer Club is an educational and fun group. The club explores both computer architecture and new application software.  We try to help anyone with his or her computer problems.  We also know quite a bit about programming and networking. Our mission is to promote computer programming and to expand the scope of computer knowledge within this school.",
         "description2":"North South University Computer and Engineering Club (NSU CEC) is the one and only Engineering club in ECE department of North South University, established in Fall 2015, affiliated from three of the most reputed clubs of NSU, which are NSU Computer Club (NSUCC), NSU Wireless Forum (NSU WF) and NSU Society of Science, Engineering and Technology (NSU SSET). NSUCEC has devoted itself towards one large goal, ‘Creating Tech Leaders of Tomorrow’, with all the active members of CC, WF, and SSET. The main objective of NSUCEC is to promote the ECE department of NSU to offer an extensive study of the IT and Telecom industries of Bangladesh through seminars, workshops, publications and study tours. It is also the mission of NSUCEC to create a relationship between industries and the academy.",
@@ -36,6 +38,7 @@
     {
         "_id":"3",
         "type":"sports-club",
+        "logo":"https://i.pinimg.com/originals/f0/40/06/f04006b9b5f2151756ab6d68ccf06c2a.png",
         "name":"Imperial Sports Club",
         "description1":"The Computer Club is an educational and fun group. The club explores both computer architecture and new application software.  We try to help anyone with his or her computer problems.  We also know quite a bit about programming and networking. Our mission is to promote computer programming and to expand the scope of computer knowledge within this school.",
         "description2":"North South University Computer and Engineering Club (NSU CEC) is the one and only Engineering club in ECE department of North South University, established in Fall 2015, affiliated from three of the most reputed clubs of NSU, which are NSU Computer Club (NSUCC), NSU Wireless Forum (NSU WF) and NSU Society of Science, Engineering and Technology (NSU SSET). NSUCEC has devoted itself towards one large goal, ‘Creating Tech Leaders of Tomorrow’, with all the active members of CC, WF, and SSET. The main objective of NSUCEC is to promote the ECE department of NSU to offer an extensive study of the IT and Telecom industries of Bangladesh through seminars, workshops, publications and study tours. It is also the mission of NSUCEC to create a relationship between industries and the academy.",
@@ -53,6 +56,7 @@
     {
         "_id":"4",
         "type":"textile-club",
+        "logo":"https://www.logolynx.com/images/logolynx/93/938e91ea73b20ed0c3aca52a3b1815a9.png",
         "name":"Imperial Textile Club",
         "description1":"The Computer Club is an educational and fun group. The club explores both computer architecture and new application software.  We try to help anyone with his or her computer problems.  We also know quite a bit about programming and networking. Our mission is to promote computer programming and to expand the scope of computer knowledge within this school.",
         "description2":"North South University Computer and Engineering Club (NSU CEC) is the one and only Engineering club in ECE department of North South University, established in Fall 2015, affiliated from three of the most reputed clubs of NSU, which are NSU Computer Club (NSUCC), NSU Wireless Forum (NSU WF) and NSU Society of Science, Engineering and Technology (NSU SSET). NSUCEC has devoted itself towards one large goal, ‘Creating Tech Leaders of Tomorrow’, with all the active members of CC, WF, and SSET. The main objective of NSUCEC is to promote the ECE department of NSU to offer an extensive study of the IT and Telecom industries of Bangladesh through seminars, workshops, publications and study tours. It is also the mission of NSUCEC to create a relationship between industries and the academy.",
