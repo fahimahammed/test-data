@@ -1,75 +1,272 @@
 [
     {
         "_id":"1",
-        "name":"Faruk Hosain",
-        "designation":"Lecturer",
-        "qualification":"BSc in CSE",
-        "dept":"CSE",
-        "email":"fa@fka.cs",
+        "name":"Prof. Md Maruful Haque",
+        "designation":"Principal",
+        "qualification":"MSc (Bachelor of Education)",
+        "dept":"",
+        "email":"",
         "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
     },
     {
         "_id":"2",
-        "name":"Faruk Hosain1",
-        "designation":"Lecturer1",
-        "qualification":"BSc in CSE1",
-        "dept":"CSE",
-        "email":"fa@fka.cs",
+        "name":"Md Noman Hossain",
+        "designation":"Vice Principal, Asst. Professor",
+        "qualification":"PhD(running)(KUET), MSc in Physics (KUET), BSc in Physics (KU)",
+        "dept":"Physics",
+        "email":"ku.nomanhossain@gmail.com",
         "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
     },
     {
         "_id":"3",
-        "name":"Faruk Hosain3",
-        "designation":"Lecturer3",
-        "qualification":"BSc in CSE3",
-        "dept":"EEE",
-        "email":"fa@fka.cs",
+        "name":"Prof. Dr Kazi Rokibul Alam",
+        "designation":"Professor (Part-time)",
+        "qualification":"PhD, MSc in CSE, BSc in CSE",
+        "dept":"CSE",
+        "email":"",
         "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
     },
     {
         "_id":"4",
-        "name":"Faruk Hosain4",
-        "designation":"Lecturer4",
-        "qualification":"BSc in CSE4",
-        "dept":"ME",
-        "email":"fa@fka.cs",
+        "name":"Md Hafijur Rahman Shakil",
+        "designation":"Asst. Professor",
+        "qualification":"MSc in CSE",
+        "dept":"CSE",
+        "email":"",
         "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
     },
     {
         "_id":"5",
-        "name":"Faruk Hosain5",
-        "designation":"Lecturer5",
-        "qualification":"BSc in CSE5",
-        "dept":"TE",
-        "email":"fa@fka.cs",
+        "name":"Md Rajib Hossain",
+        "designation":"Lecturer",
+        "qualification":"MSc in CSE (running) (KU)",
+        "dept":"CSE",
+        "email":"",
         "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
     },
     {
         "_id":"6",
-        "name":"Faruk Hosain6",
-        "designation":"Lecturer6",
-        "qualification":"BSc in CSE6",
-        "dept":"CE",
-        "email":"fa@fka.cs",
+        "name":"Imran Hossain Munna",
+        "designation":"Lecturer",
+        "qualification":"MSc in CSE (running) (KU)",
+        "dept":"CSE",
+        "email":"",
         "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
     },
     {
         "_id":"7",
-        "name":"Faruk Hosain7",
-        "designation":"Lecturer7",
-        "qualification":"BSc in CSE7",
+        "name":"Mritunjoy Gain",
+        "designation":"Lecturer",
+        "qualification":"MSc in CSE (running) (KU)",
         "dept":"TE",
         "email":"fa@fka.cs",
         "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
     },
     {
         "_id":"8",
-        "name":"Faruk Hosain8",
-        "designation":"Lecturer8",
-        "qualification":"BSc in CSE8",
+        "name":"Shibly Shadik",
+        "designation":"Lecturer",
+        "qualification":"MSc in CSE (running) (KU), BSc in CSE (BSMRSTU)",
         "dept":"CSE",
-        "email":"fa@fka.cs",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"9",
+        "name":"Ashrafi Akram",
+        "designation":"Lecturer",
+        "qualification":"MSc in CSE (running) (KU), BSc in CSE (JUST)",
+        "dept":"CSE",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"10",
+        "name":"Md Hadiuzzaman Bappi",
+        "designation":"Lecturer",
+        "qualification":"MSc in CSE (running) (KU), BSc in CSE (KU)",
+        "dept":"CSE",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"11",
+        "name":"Abul-ala Walid",
+        "designation":"Lecturer",
+        "qualification":"MSc in CSE (running) (KUET), BSc in CSE (BSMRSTU)",
+        "dept":"CSE",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"12",
+        "name":"Dr. Md Jahir Uddin",
+        "designation":"Professor (Part-time)",
+        "qualification":"PhD, MSc, BSc in Civil Engineering",
+        "dept":"CE",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"13",
+        "name":"Debashis Paul",
+        "designation":"Lecturer",
+        "qualification":"BSc in Civil Engineering (KUET)",
+        "dept":"CE",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"14",
+        "name":"Md Shahiduzzaman Sunam",
+        "designation":"Lecturer",
+        "qualification":"BSc in Civil Engineering",
+        "dept":"CE",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"15",
+        "name":"Nur-E-Jannat Pollen",
+        "designation":"Chairman",
+        "qualification":"MSc in Civil Engineering (running) (KUET)",
+        "dept":"CE",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"16",
+        "name":"Masud Rana",
+        "designation":"Lecturer",
+        "qualification":"MSc in Civil Engineering (running) (KUET)",
+        "dept":"CE",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"17",
+        "name":"Mayen Hasan Molla",
+        "designation":"Lecturer",
+        "qualification":"BSc in Civil Engineering(KUET)",
+        "dept":"CE",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"18",
+        "name":"Mounita Gosh",
+        "designation":"Lecturer",
+        "qualification":"MSc in Bio-Medical Engineering (running) (KUET)",
+        "dept":"EEE",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"19",
+        "name":"Leoza Haque",
+        "designation":"Lecturer",
+        "qualification":"BSc in ECE",
+        "dept":"EEE",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"20",
+        "name":"Shaharuzzaman Fahad",
+        "designation":"Lecturer",
+        "qualification":"BSc in EEE",
+        "dept":"EEE",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"21",
+        "name":"Md Abu Baker Siddik",
+        "designation":"Lecturer",
+        "qualification":"BSc in EEE",
+        "dept":"EEE",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"22",
+        "name":"Anika Jaman",
+        "designation":"Lecturer",
+        "qualification":"BSc in ECE (KU)",
+        "dept":"EEE",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"23",
+        "name":"Abdur Rakib Jalal",
+        "designation":"Professor (Part-time)",
+        "qualification":"PhD in CSE, BSc in Mathematics",
+        "dept":"Mathemetics",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"24",
+        "name":"M.M Jubayer Hossain",
+        "designation":"Asst. Professor",
+        "qualification":"MPhil in Math (running) (KUET), MSc & BSc in Math (KU)",
+        "dept":"Mathemetics",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"25",
+        "name":"Liakot Ali",
+        "designation":"Lecturer",
+        "qualification":"MSc, BSc in Mathematics",
+        "dept":"Mathemetics",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"26",
+        "name":"S.K Sirajul Islam",
+        "designation":"Professor (Part-time)",
+        "qualification":"MSc in Physics & Electronics",
+        "dept":"Physics",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"27",
+        "name":"Asif Hossain",
+        "designation":"Lecturer",
+        "qualification":"MSc in Physics (KU)",
+        "dept":"Physics",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"28",
+        "name":"Rajon Shaha Antu",
+        "designation":"Lecturer",
+        "qualification":"MSc in Physics (running) (KUET)",
+        "dept":"Physics",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"29",
+        "name":"Md Faruk-E-Azam",
+        "designation":"Professor (Part-time)",
+        "qualification":"MSc in Chemistry",
+        "dept":"Chemistry",
+        "email":"",
+        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+    },
+    {
+        "_id":"30",
+        "name":"Md Nazim Udding",
+        "designation":"Asst. Professor",
+        "qualification":"PhD in Chemistry (running) (KUET)",
+        "dept":"Chemistry",
+        "email":"",
         "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
     }
-    
 ]
