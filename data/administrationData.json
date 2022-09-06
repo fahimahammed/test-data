@@ -3,36 +3,36 @@
         "_id":"1",
         "name":"SM Saiful Islam",
         "designation":"Chairman",
-        "qualification":"PGD in Management, BSc in CSE, Diploma in Civil Engineering",
-        "message":"Art of living, orientation with modern technologies, one student one laptop, collaboration with around 400 famous foreign universities and international participation through a series of exchange programs have equipped our students with a change together mentality and ability. Our students can uplift themselves in a three dimensional relationship among the students, guardians & faculty. We are trying to develop the university with international mindset, global mobility, faculty exchange, students’ orientation, events, industry academia relationship, lecture series, innovation and entrepreneurship, among others.With the support from its students & faculty members, now DIU one of the top ranked universities in Bangladesh evaluated by QS World University Rankings® 2019. It is also in the prestigious position in Times Higher Education (THE) University Impact Rankings-2019 and in the top position among all universities in South Asian Region and the top ranking university in Bangladesh in the UI GreenMetric World University Rankings in 2018. Prestigious ASOCIO 2018 ICT Education Award and World Congress of IT (WCIT) 2017 Merit Award, as well as involvement with many international platforms, among others, AUAP, AUPF, GEN, IAUP, ACU, IAU, IEEE, ISTQB, Kauffman and Magna Charta Observatory keep us on the right track.",
-        "image":"https://daffodilvarsity.edu.bd/photos/shares/message/drsabur.png",
+        "qualification":"PGD in Managment, BSc in CSE",
+        "message":"The Institute is established to create, nurture, and shape technical professionals and leaders to create an inclusive and sustainable society in a national and international perspective. To achieve this vision, we launched undergraduate engineering degree programs that nurture many vibrant and promising professionals equipped with skills to face the ever changing social, economical and technical landscape of our country. We provide high-end undergraduate education and research opportunities in new frontiers of Engineering and Technology with special focus towards Leadership & Innovation. Students are provided with opportunities for interaction with the experts from the Industry through Guest Lectures, Industrial Visits, Vocational Training (internships), student chapters of International Professional bodies, sponsored projects etc. To align with the curricula, we have excellent faculty, state-of- the-art infrastructure and laboratories. Spacious green campus, good library and peaceful atmosphere ensures that learning becomes a wonderful experience.",
+        "image":"https://i.ibb.co/rw2hpLP/chairman.webp",
         "slug":"chairman"
     },
     {
         "_id":"5",
         "name":"MD. Bodiuzzaman",
         "designation":"Executive Director",
-        "qualification":"PGD in Management, BSc in CSE, Diploma in Civil Engineering",
+        "qualification":"PhD Candidate, UNSW, Sydeny; MS.c. in Industrial Engineering & Managment; BS.c. in EEE",
         "message":"Art of living, orientation with modern technologies, one student one laptop, collaboration with around 400 famous foreign universities and international participation through a series of exchange programs have equipped our students with a change together mentality and ability. Our students can uplift themselves in a three dimensional relationship among the students, guardians & faculty. We are trying to develop the university with international mindset, global mobility, faculty exchange, students’ orientation, events, industry academia relationship, lecture series, innovation and entrepreneurship, among others.With the support from its students & faculty members, now DIU one of the top ranked universities in Bangladesh evaluated by QS World University Rankings® 2019. It is also in the prestigious position in Times Higher Education (THE) University Impact Rankings-2019 and in the top position among all universities in South Asian Region and the top ranking university in Bangladesh in the UI GreenMetric World University Rankings in 2018. Prestigious ASOCIO 2018 ICT Education Award and World Congress of IT (WCIT) 2017 Merit Award, as well as involvement with many international platforms, among others, AUAP, AUPF, GEN, IAUP, ACU, IAU, IEEE, ISTQB, Kauffman and Magna Charta Observatory keep us on the right track.",
         "image":"https://i.ibb.co/fC2zSrC/bodi.webp",
         "slug":"ed"
     },
     {
         "_id":"2",
-        "name":"SM Magfurul Abbasi",
+        "name":"Prof. Md Maruful Haque",
         "designation":"Principal",
         "qualification":"BSc in CSE",
-        "message":"As the principal of Rangpur Engineering College I would like to welcome you to the arena of science, technology, and innovation. Rangpur Engineering College has the resources at your disposal for you to nurture your future life. Come, learn and be successful Engineers.",
-        "image":"https://daffodilvarsity.edu.bd/photos/shares/message/drsabur.png",
+        "message":"The major challenge for today’s engineering educational institutions is to accommodate the ever varying aspirations of the younger generation because of increasingly changing demand and development in industries. We constantly put efforts to accommodate these aspirations by fine tuning the academics of college with innovative and practical oriented teaching - learning practices along with other developmental activities. Our approach reflects the educational needs of the 21st century. We focus on our students by providing them with a world-class outcome based education and hands-on experience through research, training, and student forum activities etc. The success of our undergraduate, postgraduate & research programs is supervised by our eminent faculty, who continue to set the standard for excellence. There is continuous check on the implementation of planned academic activities with desired results in grooming our future generation for employment and for higher studies in India and abroad. A research culture has taken shape in the institute through enhanced R & D activities. We believe in continuous development and strive to carry on the best efforts and endeavors towards the benefit of the students.",
+        "image":"https://i.ibb.co/XyZG5Dq/businessman-silhouette-as-avatar-or-default-profile-picture-picture-id476085198-k-20-m-476085198-s-1.jpg",
         "slug":"principal"
     },
     {
         "_id":"3",
         "name":"Md Noman Hossen",
         "designation":"Vice Principal",
-        "qualification":"BSc in Physics",
-        "message":"As the principal of Rangpur Engineering College I would like to welcome you to the arena of science, technology, and innovation. Rangpur Engineering College has the resources at your disposal for you to nurture your future life. Come, learn and be successful Engineers.",
-        "image":"https://daffodilvarsity.edu.bd/photos/shares/message/drsabur.png",
+        "qualification":"PhD(running)(KUET), MSc in Physics (KUET), BSc in Physics (KU)",
+        "message":"This is an age of modern science and technology and we are in the 21st century. Bangladesh is growing economically & technologically and will join the list of “Developed Nations: by coming year. The growth is not possible without sound support of technical human resource. We at Imperial College of Engineering aim at overall development of the personality of an individual by providing best education, technical know-how, personality traits and leadership qualities to grow as a manager and technocrat.The mission of ICE is to generate effective synchronization among-st academicians, professionals, technocrats and students so as to achieve excellence in technical education with a sense of commitment to meet the national aspirations.",
+        "image":"https://i.ibb.co/T4DBBkb/300-Md-Noman-Hossain.jpg",
         "slug":"vice-principal"
     }
 ]
