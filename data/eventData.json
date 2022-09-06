@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "1",
+        "title": "SEMINER",
+        "img": "https://i.ibb.co/T2Yjjsw/146450113-879616389272926-566913791154127016-n.jpg",
+        "description": "Seminar on Career Guideline.",
+        "time": "10.00 AM",
+        "date": "11-09-2021",
+        "regStatus": true
+    },
+    {
+        "_id": "2",
+        "title": "VOLUNTARY COURSE",
+        "img": "https://i.ibb.co/RvVsNbt/e1.jpg",
+        "description": "Online voluntary course on Environmental sutainability using life cycle assessment by Dr Nawshad Haque, Senior Scientist @ Australian National Since Agency.",
+        "time": "05.00 PM",
+        "date": "21-05-2022",
+        "regStatus": false
+    },
+    {
+        "_id": "4",
+        "title": "VOLUNTARY WORK",
+        "img": "https://i.ibb.co/nPL8jTf/ca.jpg",
+        "description": "Career talk. Spreaker: Brigadier General ATM Anisuzzaman, BP, nndc, psc Principal, Military Collegiate School Khulna (MCSK)",
+        "time": "04.00 PM",
+        "date": "05-02-2022",
+        "regStatus": false
+    },
+    {
+        "_id": "3",
+        "title": "WABINAR",
+        "img": "https://i.ibb.co/9cx6hKv/WEBINAR-BANNER.jpg",
+        "description": "Wabinar on Complete Roadmap & Career Opportunities of Web Development. Speaker: Jhankar Mahabub, Youtuber, Writter, Founder and CEO, Programming Hero",
+        "time": "10.00 AM",
+        "date": "11-09-2021",
+        "regStatus": true
+    }
+]
