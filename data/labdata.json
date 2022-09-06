@@ -1,47 +1,79 @@
 [
     {
-        "_id":"1",
-        "name":"Computer Software & Simulation Lab",
-        "image":"https://i.ibb.co/K0jqdBK/lab4.jpg"
+        "_id":"l1",
+        "name":"Software & Simulation Lab",
+        "image":"https://i.ibb.co/XXvfsSK/cse5.jpg"
     },
     {
-        "_id":"3",
-        "name":"Computer Hardware Lab",
-        "image":"https://i.ibb.co/cXwKcZ4/lab2.jpg"
+        "_id":"l2",
+        "name":"Advance Computer Lab",
+        "image":"https://i.ibb.co/Q8r9Mm0/cse4.jpg"
+    },{
+        "_id":"l3",
+        "name":"Hardware Lab",
+        "image":"https://i.ibb.co/xMt3hkR/cse3.jpg"
     },
     {
-        "_id":"4",
+        "_id":"l6",
         "name":"Communication Lab",
-        "image":"https://i.ibb.co/RNg8grW/lab6.jpg"
+        "image":"https://i.ibb.co/WvtqSDv/cse2.jpg"
     },
     {
-        "_id":"5",
-        "name":"PLC HMI & SCADA Trainer",
-        "image":"https://i.ibb.co/9hKwry4/lab1.jpg"
+        "_id":"l4",
+        "name":"Circuit Lab",
+        "image":"https://i.ibb.co/zNbGxf5/eee2.jpg"
     },
     {
-        "_id":"2",
-        "name":"Mechanical Workshop",
-        "image":"https://i.ibb.co/xD7grR0/lab15.jpg"
+        "_id":"l1",
+        "name":"EEE Lab",
+        "image":"https://i.ibb.co/nRfzmk0/eee2.jpg"
     },
     {
-        "_id":"6",
-        "name":"Satelite Communication & Trainer System",
-        "image":"https://i.ibb.co/jMzmXcb/lab7.jpg"
+        "_id":"l2",
+        "name":"Circuit Lab",
+        "image":"https://i.ibb.co/rx6csdL/cse1.jpg"
+    },{
+        "_id":"l3",
+        "name":"EEE Lab",
+        "image":"https://i.ibb.co/LDFv5mc/eee1.jpg"
     },
     {
-        "_id":"8",
-        "name":"Electrical & Electronics Lab",
-        "image":"https://i.ibb.co/5F90TQ5/lab10.jpg"
+        "_id":"l4",
+        "name":"EEE Lab-2",
+        "image":"https://i.ibb.co/TvDZy03/eee5.jpg"
     },
     {
-        "_id":"9",
-        "name":"Electrical Lab",
-        "image":"https://i.ibb.co/jRSx4MT/lab11.jpg"
+        "_id":"l1",
+        "name":"Textile Lab-1",
+        "image":"https://i.ibb.co/pz0qKzT/b1.jpg"
     },
     {
-        "_id":"10",
-        "name":"Textile Lab",
-        "image":"https://i.ibb.co/Y30b1gt/lab9.jpg"
+        "_id":"l2",
+        "name":"Textile Lab-2",
+        "image":"https://i.ibb.co/SnGt9FW/b2.jpg"
+    },{
+        "_id":"l3",
+        "name":"Textile Lab-3",
+        "image":"https://i.ibb.co/k6YqMXD/t2.jpg"
+    },
+    {
+        "_id":"l1",
+        "name":"Civil Lab",
+        "image":"https://i.ibb.co/YjR78Br/eee6.jpg"
+    },
+    {
+        "_id":"l2",
+        "name":"Drawing Lab",
+        "image":"https://i.ibb.co/MSJx6HL/c1.jpg"
+    },
+    {
+        "_id":"l1",
+        "name":"Machine Lab",
+        "image":"https://i.ibb.co/rxwc9cj/m1.jpg"
+    },
+    {
+        "_id":"l2",
+        "name":"ME Lab",
+        "image":"https://i.ibb.co/jTTZkZP/me.jpg"
     }
 ]
