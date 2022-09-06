@@ -3,7 +3,7 @@
         "_id": "1",
         "title": "SEMINER",
         "img": "https://i.ibb.co/T2Yjjsw/146450113-879616389272926-566913791154127016-n.jpg",
-        "description": "Seminar on Career Guideline.",
+        "description": "Seminar on Career Guideline. Career guidance will help the students to fulfill their aspirations by setting up realistic goals.",
         "time": "10.00 AM",
         "date": "11-09-2021",
         "regStatus": true
@@ -33,6 +33,6 @@
         "description": "Wabinar on Complete Roadmap & Career Opportunities of Web Development. Speaker: Jhankar Mahabub, Youtuber, Writter, Founder and CEO, Programming Hero",
         "time": "10.00 AM",
         "date": "11-09-2021",
-        "regStatus": true
+        "regStatus": false
     }
 ]
