@@ -1,71 +1,68 @@
 [
     {
-        "_id":"1",
-        "type":"computer-club",
-        "logo":"https://www.logolynx.com/images/logolynx/93/938e91ea73b20ed0c3aca52a3b1815a9.png",
-        "name":"Imperial Computing Access Nation (ICAN)",
-        "description1":"The Computer Club is an educational and fun group. The club explores both computer architecture and new application software.  We try to help anyone with his or her computer problems.  We also know quite a bit about programming and networking. Our mission is to promote computer programming and to expand the scope of computer knowledge within this school.",
-        "description2":"North South University Computer and Engineering Club (NSU CEC) is the one and only Engineering club in ECE department of North South University, established in Fall 2015, affiliated from three of the most reputed clubs of NSU, which are NSU Computer Club (NSUCC), NSU Wireless Forum (NSU WF) and NSU Society of Science, Engineering and Technology (NSU SSET). NSUCEC has devoted itself towards one large goal, ‘Creating Tech Leaders of Tomorrow’, with all the active members of CC, WF, and SSET. The main objective of NSUCEC is to promote the ECE department of NSU to offer an extensive study of the IT and Telecom industries of Bangladesh through seminars, workshops, publications and study tours. It is also the mission of NSUCEC to create a relationship between industries and the academy.",
-        "description3":"NSU CEC organized Cybernauts 2018 from 18th to 25th March 2018 with segments including National Programming Contest, Engineering Project Showcase (Senior and Junior Level), Line Follower Robot Contest and Cyber Athletics.",
-        "clubPhoto":[
-            "https://i.ibb.co/cgcF0RY/lab4.jpg", 
-            "https://i.ibb.co/z66jQXy/146450113-879616389272926-566913791154127016-n.jpg",
-            "https://i.ibb.co/R6p3RhJ/146029340-879616352606263-2228970710049790998-n.jpg",
-            "https://i.ibb.co/jwK4HSR/146611051-879616325939599-6824421885770067212-n.jpg"
+        "_id": "1",
+        "type": "computer-club",
+        "logo": "https://i.ibb.co/LSZRjN5/icclogo.jpg",
+        "name": "Imperial Computing Access Nation (ICAN)",
+        "description1": "The Computer Club is an educational and fun group. The club explores both computer architecture and new application software.  We try to help anyone with his or her computer problems.  We also know quite a bit about programming and networking. Our mission is to promote computer programming and to expand the scope of computer knowledge within this school.",
+        "description2": "North South University Computer and Engineering Club (NSU CEC) is the one and only Engineering club in ECE department of North South University, established in Fall 2015, affiliated from three of the most reputed clubs of NSU, which are NSU Computer Club (NSUCC), NSU Wireless Forum (NSU WF) and NSU Society of Science, Engineering and Technology (NSU SSET). NSUCEC has devoted itself towards one large goal, ‘Creating Tech Leaders of Tomorrow’, with all the active members of CC, WF, and SSET. The main objective of NSUCEC is to promote the ECE department of NSU to offer an extensive study of the IT and Telecom industries of Bangladesh through seminars, workshops, publications and study tours. It is also the mission of NSUCEC to create a relationship between industries and the academy.",
+        "description3": "NSU CEC organized Cybernauts 2018 from 18th to 25th March 2018 with segments including National Programming Contest, Engineering Project Showcase (Senior and Junior Level), Line Follower Robot Contest and Cyber Athletics.",
+        "clubPhoto": [
+            "https://i.ibb.co/vJ4GQWz/146759718-879616875939544-8916343283339291234-n.jpg",
+            "https://i.ibb.co/2nJ2TW2/145540825-879616702606228-6560995042700206364-n.jpg",
+            "https://i.ibb.co/N2SQw12/cse2.jpg",
+            "https://i.ibb.co/gyBbTzf/cse5.jpg"
         ],
-        "fbLink":"facebook.com",
-        "webLink":"web.com"
+        "fbLink": "https://www.facebook.com/ican.imperial",
+        "webLink": "web.com"
     },
     {
-        "_id":"2",
-        "type":"cultural-club",
-        "logo":"https://www.logolynx.com/images/logolynx/93/938e91ea73b20ed0c3aca52a3b1815a9.png",
-        "name":"Imperial Cultural Club",
-        "description1":"The Computer Club is an educational and fun group. The club explores both computer architecture and new application software.  We try to help anyone with his or her computer problems.  We also know quite a bit about programming and networking. Our mission is to promote computer programming and to expand the scope of computer knowledge within this school.",
-        "description2":"North South University Computer and Engineering Club (NSU CEC) is the one and only Engineering club in ECE department of North South University, established in Fall 2015, affiliated from three of the most reputed clubs of NSU, which are NSU Computer Club (NSUCC), NSU Wireless Forum (NSU WF) and NSU Society of Science, Engineering and Technology (NSU SSET). NSUCEC has devoted itself towards one large goal, ‘Creating Tech Leaders of Tomorrow’, with all the active members of CC, WF, and SSET. The main objective of NSUCEC is to promote the ECE department of NSU to offer an extensive study of the IT and Telecom industries of Bangladesh through seminars, workshops, publications and study tours. It is also the mission of NSUCEC to create a relationship between industries and the academy.",
-        "description3":"NSU CEC organized Cybernauts 2018 from 18th to 25th March 2018 with segments including National Programming Contest, Engineering Project Showcase (Senior and Junior Level), Line Follower Robot Contest and Cyber Athletics.",
-        "clubPhoto":[
-            "https://i.ibb.co/z66jQXy/146450113-879616389272926-566913791154127016-n.jpg",
-            "https://i.ibb.co/cgcF0RY/lab4.jpg", 
-            "https://i.ibb.co/jwK4HSR/146611051-879616325939599-6824421885770067212-n.jpg",
-            "https://i.ibb.co/R6p3RhJ/146029340-879616352606263-2228970710049790998-n.jpg"
+        "_id": "2",
+        "type": "cultural-club",
+        "logo": "https://i.ibb.co/zH79yQh/c-logo.jpg",
+        "name": "Imperial Cultural Club",
+        "description1": "Imperial Cultural Club (ICC) is a Voluntary organization of Imperial College of Engineering. ICC is responsible for all the cultural events in the Institute around the year. Imperial cultural club strives to bring out the hidden talent of the students of the college. It is the place where students can showcase what they have got. It helps to discover their talent. Cultural events include competitions such as instrumental, singing, dance etc. Every year this club organizes activities such as Talent Hunt, Fresher’s Party, Farewell, Fest and Alumni Meet.",
+        "description2": "",
+        "description3": "",
+        "clubPhoto": [
+            "https://i.ibb.co/TkvLx4S/e7.jpg",
+            "https://i.ibb.co/2qx4yGv/e6.jpg",
+            "https://i.ibb.co/8NNvYLh/e8.jpg",
+            "https://i.ibb.co/HqhvXt2/e9.jpg",
+            "https://i.ibb.co/hy1xFpb/e10.jpg",
+            "https://i.ibb.co/XJF2h7x/e13.jpg",
+            "https://i.ibb.co/RNKQhNj/e14.jpg",
+            "https://i.ibb.co/FHBSJRK/t1.jpg"
         ],
-        "fbLink":"facebook.com",
-        "webLink":"web.com"
+        "fbLink": "https://www.facebook.com/iceicc2020",
+        "webLink": "web.com"
     },
     {
-        "_id":"3",
-        "type":"sports-club",
-        "logo":"https://i.pinimg.com/originals/f0/40/06/f04006b9b5f2151756ab6d68ccf06c2a.png",
-        "name":"Imperial Sports Club",
-        "description1":"The Computer Club is an educational and fun group. The club explores both computer architecture and new application software.  We try to help anyone with his or her computer problems.  We also know quite a bit about programming and networking. Our mission is to promote computer programming and to expand the scope of computer knowledge within this school.",
-        "description2":"North South University Computer and Engineering Club (NSU CEC) is the one and only Engineering club in ECE department of North South University, established in Fall 2015, affiliated from three of the most reputed clubs of NSU, which are NSU Computer Club (NSUCC), NSU Wireless Forum (NSU WF) and NSU Society of Science, Engineering and Technology (NSU SSET). NSUCEC has devoted itself towards one large goal, ‘Creating Tech Leaders of Tomorrow’, with all the active members of CC, WF, and SSET. The main objective of NSUCEC is to promote the ECE department of NSU to offer an extensive study of the IT and Telecom industries of Bangladesh through seminars, workshops, publications and study tours. It is also the mission of NSUCEC to create a relationship between industries and the academy.",
-        "description3":"NSU CEC organized Cybernauts 2018 from 18th to 25th March 2018 with segments including National Programming Contest, Engineering Project Showcase (Senior and Junior Level), Line Follower Robot Contest and Cyber Athletics.",
-        "clubPhoto":[
-            "https://i.ibb.co/z66jQXy/146450113-879616389272926-566913791154127016-n.jpg",
-            "https://i.ibb.co/jwK4HSR/146611051-879616325939599-6824421885770067212-n.jpg",
-            "https://i.ibb.co/cgcF0RY/lab4.jpg", 
-            "https://i.ibb.co/R6p3RhJ/146029340-879616352606263-2228970710049790998-n.jpg"
-
+        "_id": "3",
+        "type": "sports-club",
+        "logo": "",
+        "name": "Imperial Sports Club",
+        "description1": "Imperial Sports Club is committed to provide a healthy sporting habit among the students. It helps to learn teamwork at work, coordination among diverse cultural & ethnic groups and mainly infuses discipline & instills the value system in one individual. Value of time, precision & competitiveness are the major learning points apart from communication, coordination & teamwork.",
+        "description2": "",
+        "description3": "",
+        "clubPhoto": [
+            
         ],
-        "fbLink":"facebook.com",
-        "webLink":"web.com"
+        "fbLink": "facebook.com",
+        "webLink": "web.com"
     },
     {
-        "_id":"4",
-        "type":"textile-club",
-        "logo":"https://www.logolynx.com/images/logolynx/93/938e91ea73b20ed0c3aca52a3b1815a9.png",
-        "name":"Imperial Textile Club",
-        "description1":"The Computer Club is an educational and fun group. The club explores both computer architecture and new application software.  We try to help anyone with his or her computer problems.  We also know quite a bit about programming and networking. Our mission is to promote computer programming and to expand the scope of computer knowledge within this school.",
-        "description2":"North South University Computer and Engineering Club (NSU CEC) is the one and only Engineering club in ECE department of North South University, established in Fall 2015, affiliated from three of the most reputed clubs of NSU, which are NSU Computer Club (NSUCC), NSU Wireless Forum (NSU WF) and NSU Society of Science, Engineering and Technology (NSU SSET). NSUCEC has devoted itself towards one large goal, ‘Creating Tech Leaders of Tomorrow’, with all the active members of CC, WF, and SSET. The main objective of NSUCEC is to promote the ECE department of NSU to offer an extensive study of the IT and Telecom industries of Bangladesh through seminars, workshops, publications and study tours. It is also the mission of NSUCEC to create a relationship between industries and the academy.",
-        "description3":"NSU CEC organized Cybernauts 2018 from 18th to 25th March 2018 with segments including National Programming Contest, Engineering Project Showcase (Senior and Junior Level), Line Follower Robot Contest and Cyber Athletics.",
-        "clubPhoto":[
-            "https://i.ibb.co/jwK4HSR/146611051-879616325939599-6824421885770067212-n.jpg",
-            "https://i.ibb.co/z66jQXy/146450113-879616389272926-566913791154127016-n.jpg",
-            "https://i.ibb.co/cgcF0RY/lab4.jpg", 
-            "https://i.ibb.co/R6p3RhJ/146029340-879616352606263-2228970710049790998-n.jpg"
+        "_id": "4",
+        "type": "textile-club",
+        "logo": "",
+        "name": "Imperial Textile Club",
+        "description1": "The department’s facilitated with highly qualified, dynamic, dedicated and well experienced faculty members to build the best textile engineering department in Bangladesh. The department started its journey in 2018 with 25 students, designed for the students to acquire sufficient knowledge and understanding the principle and technique of Textile Science and clothing. With the increase of huge demand for skilled manpower in Ready Made Garments (RMG) sector, the aim of the program is to create skilled textile graduates to meet the growing demand for the highest foreign currency earning sector of Bangladesh.”",
+        "description2": "",
+        "description3": "",
+        "clubPhoto": [
+            
         ],
-        "fbLink":"facebook.com",
-        "webLink":"web.com"
+        "fbLink": "facebook.com",
+        "webLink": "web.com"
     }
 ]

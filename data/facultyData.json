@@ -3,32 +3,33 @@
         "_id":"1",
         "code":"cse",
         "name":"Computer Science & Engineering",
-        "description1":"The Department of Computer Science and Engineering (CSE), Rangpur Engineering College, Rangpur is one of the leading department in Bangladesh. The campus is located at dhokigonj, mahigonj , Rangpur, beside the Rangpur-kurigram highway. The Department is primarily committed to serving students who have set a goal of obtaining a degree in computer science and engineering.",
-        "description2":"The computer science graduate program offers coursework from a broad spectrum of theoretical and specific computer science applications, combined with research opportunities in nearly all areas of the field.",
-        "description3":"The CSE department offers courses in the following areas: algorithms and theoretical computer science; numerical, parallel, and high-performance computing; distributed computing and systems; artificial intelligence, robotics, and computer vision; databases and data mining; human-computer interaction and information systems; graphics and visualization; software engineering and programming languages; computer architecture and compilers; networking; and computer security.List of faculty member",
+        "description1":"Computer Science and Engineering (CSE) Discipline of ICE started its academic activities with only 20 undergraduate students in academic session 2017- 2018.  But with the raising demand for students to get admitted in CSE Discipline we have started taking 40 students at the undergraduate level starting from session 2018-2019. Currently, we have 4 batches running. With the starting of our institution we valued quality of education and the environment of education. We have enriched lab facilities. There are software lab, hardware lab, network lab and more exclusively for CSE department.",
+        "description2":"The computer science and engineering curriculum is focused on the study of the hardware, software, and theoretical aspects of high-speed computing devices. It is also concerned with the application of these devices to scientific, technological, and business problems. A bachelor’s degree in computer science and engineering gives students a basic understanding of the discipline. The degree prepares students for graduate work or for various industrial, governmental, and business positions involving the use of computers. The computer science graduate program offers coursework from a broad spectrum of theoretical and specific computer science applications, combined with research opportunities in nearly all areas of the field.",
+        "description3":"The CSE department offers courses in the following areas: algorithms and theoretical computer science; numerical, parallel, and high-performance computing; distributed computing and systems; artificial intelligence, robotics, and computer vision; databases and data mining; human-computer interaction and information systems; graphics and visualization; software engineering and programming languages; computer architecture and compilers; networking; and computer security.List of faculty member. The Imperial Computer Access Nation (ICAN) is the computer club for all the students of CSE department. Apart from the educational knowledge, students are enlightened with latest news and information of technology. CSE department of ICE has arranged multiple co-curricular activities, seminars and workshops for building up good environment for newbie seeking inspiration. Besides the education there is arrangement for field trips.",
         "labs":[
             {
                 "labid":"l1",
-                "labName":"Software Lab",
-                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+                "labName":"Software & Simulation Lab",
+                "labImage":"https://i.ibb.co/XXvfsSK/cse5.jpg"
             },
             {
                 "labid":"l2",
-                "labName":"Network Lab",
-                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
+                "labName":"Advance Computer Lab",
+                "labImage":"https://i.ibb.co/Q8r9Mm0/cse4.jpg"
             },{
                 "labid":"l3",
+                "labName":"Hardware Lab",
+                "labImage":"https://i.ibb.co/xMt3hkR/cse3.jpg"
+            },
+            {
+                "labid":"l6",
                 "labName":"Communication Lab",
-                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+                "labImage":"https://i.ibb.co/WvtqSDv/cse2.jpg"
             },
             {
                 "labid":"l4",
-                "labName":"Network Lab",
-                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
-            },{
-                "labid":"l5",
-                "labName":"Communication Lab",
-                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+                "labName":"Circuit Lab",
+                "labImage":"https://i.ibb.co/zNbGxf5/eee2.jpg"
             }
         ],
         "teachersProfile":""
@@ -37,32 +38,28 @@
         "_id":"2",
         "code":"eee",
         "name":"Electrical & Electronics Engineering",
-        "description1":"The Department of Computer Science and Engineering (CSE), Rangpur Engineering College, Rangpur is one of the leading department in Bangladesh. The campus is located at dhokigonj, mahigonj , Rangpur, beside the Rangpur-kurigram highway. The Department is primarily committed to serving students who have set a goal of obtaining a degree in computer science and engineering.",
-        "description2":"The computer science graduate program offers coursework from a broad spectrum of theoretical and specific computer science applications, combined with research opportunities in nearly all areas of the field.",
-        "description3":"The CSE department offers courses in the following areas: algorithms and theoretical computer science; numerical, parallel, and high-performance computing; distributed computing and systems; artificial intelligence, robotics, and computer vision; databases and data mining; human-computer interaction and information systems; graphics and visualization; software engineering and programming languages; computer architecture and compilers; networking; and computer security.List of faculty member",
+        "description1":"The EEE Department is one of the best departments of Imperial College of Engineering and started its journey from the beginning of this university in 2017. The department offers world-class education to creative young people in order to provide our community with ongoing encouragement, recognizing their full potential. The significant contributions to society have made the department an attractive technological center to the professional and academic personnel. For the high quality real-life orientated education system, admission in this department is a dream to the prospective undergraduate students.",
+        "description2":"The Bachelor of Science in Electrical and Electronic Engineering (EEE) program is accredited by professional bodies of University of Rajshahi. The EEE Department has various modern laboratories equipped with state-of-the-art equipment, training kits, measuring instruments, and simulation software. We have well-qualified faculty members who were graduated from KUET, KU, DU, and other foreign universities dedicated and committed to our students performing regular active teaching, research activities, consultancy, collaborative research work, curricula, and laboratory developments of the university, etc. Our graduates are serving with a good reputation in many governments, semi-government, non-government organizations, multi-national companies, and educational institutions including universities within the country and abroad. We have many extra co-curricular activities through which students’ untapped talents and potentials are explored by conducting various extra activities, such as, industry visit, seminar, workshop, project fair, quiz contest, etc.",
+        "description3":"To obtain B. Sc. in Electrical and Electronic Engineering, students will have to complete 160 credits with a minimum CGPA of 2.25. If any student fails in any course, he/she will get the opportunity to improve the grade by retaking the same in the subsequent semesters. Duration of the program is four years (eight semester), if a student enrolls as a full time student. Students willing to obtain a Bachelor of Science degree in Electrical and Electronic Engineering will have to follow the general guidelines of degree requirements of the University of Rajshahi.",
         "labs":[
             {
                 "labid":"l1",
                 "labName":"EEE Lab",
-                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+                "labImage":"https://i.ibb.co/nRfzmk0/eee2.jpg"
             },
             {
                 "labid":"l2",
-                "labName":"Network Lab",
-                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
+                "labName":"Circuit Lab",
+                "labImage":"https://i.ibb.co/rx6csdL/cse1.jpg"
             },{
                 "labid":"l3",
-                "labName":"Communication Lab",
-                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+                "labName":"EEE Lab",
+                "labImage":"https://i.ibb.co/LDFv5mc/eee1.jpg"
             },
             {
                 "labid":"l4",
-                "labName":"EE2 Lab",
-                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
-            },{
-                "labid":"l5",
-                "labName":"Circuit Lab",
-                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+                "labName":"EEE Lab-2",
+                "labImage":"https://i.ibb.co/TvDZy03/eee5.jpg"
             }
         ],
         "teachersProfile":""
@@ -77,26 +74,17 @@
         "labs":[
             {
                 "labid":"l1",
-                "labName":"Software Lab",
-                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+                "labName":"Textile Lab-1",
+                "labImage":"https://i.ibb.co/pz0qKzT/b1.jpg"
             },
             {
                 "labid":"l2",
-                "labName":"Network Lab",
-                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
+                "labName":"Textile Lab-2",
+                "labImage":"https://i.ibb.co/SnGt9FW/b2.jpg"
             },{
                 "labid":"l3",
-                "labName":"Communication Lab",
-                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
-            },
-            {
-                "labid":"l4",
-                "labName":"Network Lab",
-                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
-            },{
-                "labid":"l5",
-                "labName":"Communication Lab",
-                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+                "labName":"Textile Lab-3",
+                "labImage":"https://i.ibb.co/k6YqMXD/t2.jpg"
             }
         ],
         "teachersProfile":""
@@ -105,32 +93,19 @@
         "_id":"1",
         "code":"ce",
         "name":"Civil Engineering",
-        "description1":"The Department of Computer Science and Engineering (CSE), Rangpur Engineering College, Rangpur is one of the leading department in Bangladesh. The campus is located at dhokigonj, mahigonj , Rangpur, beside the Rangpur-kurigram highway. The Department is primarily committed to serving students who have set a goal of obtaining a degree in computer science and engineering.",
-        "description2":"The computer science graduate program offers coursework from a broad spectrum of theoretical and specific computer science applications, combined with research opportunities in nearly all areas of the field.",
-        "description3":"The CSE department offers courses in the following areas: algorithms and theoretical computer science; numerical, parallel, and high-performance computing; distributed computing and systems; artificial intelligence, robotics, and computer vision; databases and data mining; human-computer interaction and information systems; graphics and visualization; software engineering and programming languages; computer architecture and compilers; networking; and computer security.List of faculty member",
+        "description1":"Civil Engineering is the profession of construction, designing and executing structural works that serve the general public such as Buildings, Dams, Bridges, Roads and Highways, Aqueducts, Canals, Power plants, Airports, Railways, Sewerage system and other infrastructure. Now-a-days the construction works increasing with the development of civilization and the demands of civil engineering is mostly increasing.",
+        "description2":"",
+        "description3":"",
         "labs":[
             {
                 "labid":"l1",
-                "labName":"Software Lab",
-                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+                "labName":"Civil Lab",
+                "labImage":"https://i.ibb.co/YjR78Br/eee6.jpg"
             },
             {
                 "labid":"l2",
-                "labName":"Civil Lab",
-                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
-            },{
-                "labid":"l3",
-                "labName":"CD# Lab",
-                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
-            },
-            {
-                "labid":"l4",
-                "labName":"CE1 Lab",
-                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
-            },{
-                "labid":"l5",
-                "labName":"CE Lab",
-                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+                "labName":"Drawing Lab",
+                "labImage":"https://i.ibb.co/MSJx6HL/c1.jpg"
             }
         ],
         "teachersProfile":""
@@ -139,32 +114,19 @@
         "_id":"1",
         "code":"me",
         "name":"Mechanical Engineering",
-        "description1":"The Department of Computer Science and Engineering (CSE), Rangpur Engineering College, Rangpur is one of the leading department in Bangladesh. The campus is located at dhokigonj, mahigonj , Rangpur, beside the Rangpur-kurigram highway. The Department is primarily committed to serving students who have set a goal of obtaining a degree in computer science and engineering.",
-        "description2":"The computer science graduate program offers coursework from a broad spectrum of theoretical and specific computer science applications, combined with research opportunities in nearly all areas of the field.",
-        "description3":"The CSE department offers courses in the following areas: algorithms and theoretical computer science; numerical, parallel, and high-performance computing; distributed computing and systems; artificial intelligence, robotics, and computer vision; databases and data mining; human-computer interaction and information systems; graphics and visualization; software engineering and programming languages; computer architecture and compilers; networking; and computer security.List of faculty member",
+        "description1":"The ME Department is one of the best departments of Imperial College of Engineering and started its journey from the beginning of this university in 2017. The department offers world-class education to creative young people in order to provide our community with ongoing encouragement, recognizing their full potential. The significant contributions to society have made the department an attractive technological center to the professional and academic personnel. For the high quality real-life orientated education system, admission in this department is a dream to the prospective undergraduate students.",
+        "description2":"The Bachelor of Science in Mechanical Engineering (ME) program is accredited by professional bodies of University of Rajshahi. The ME Department has various modern laboratories equipped with state-of-the-art equipment, training kits, measuring instruments, and simulation software. We have well-qualified faculty members who were graduated from KUET, KU, DU, and other foreign universities dedicated and committed to our students performing regular active teaching, research activities, consultancy, collaborative research work, curricula, and laboratory developments of the university, etc. Our graduates are serving with a good reputation in many governments, semi-government, non-government organizations, multi-national companies, and educational institutions including universities within the country and abroad. We have many extra co-curricular activities through which students’ untapped talents and potentials are explored by conducting various extra activities, such as, industry visit, seminar, workshop, project fair, quiz contest, etc.",
+        "description3":"To obtain B. Sc. in Mechanical Engineering, students will have to complete 160 credits with a minimum CGPA of 2.25. If any student fails in any course, he/she will get the opportunity to improve the grade by retaking the same in the subsequent semesters. Duration of the program is four years (eight semester), if a student enrolls as a full time student. Students willing to obtain a Bachelor of Science degree in Mechanical Engineering will have to follow the general guidelines of degree requirements of the University of Rajshahi.",
         "labs":[
             {
                 "labid":"l1",
                 "labName":"Machine Lab",
-                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+                "labImage":"https://i.ibb.co/rxwc9cj/m1.jpg"
             },
             {
                 "labid":"l2",
-                "labName":"Network Lab",
-                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
-            },{
-                "labid":"l3",
-                "labName":"ME2 Lab",
-                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
-            },
-            {
-                "labid":"l4",
-                "labName":"Network Lab",
-                "labImage":"https://healthcare-in-europe.com/media/story_section_image/5011/image-01-newsroom-photos-science-in-action-2.jpg"
-            },{
-                "labid":"l5",
-                "labName":"ME4 Lab",
-                "labImage":"http://www.must.edu.mo/images/FI/computer-software_1.jpg"
+                "labName":"ME Lab",
+                "labImage":"https://i.ibb.co/jTTZkZP/me.jpg"
             }
         ],
         "teachersProfile":""
