@@ -6,7 +6,7 @@
         "qualification":"MSc (Bachelor of Education)",
         "dept":"",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"2",
@@ -15,7 +15,7 @@
         "qualification":"PhD(running)(KUET), MSc in Physics (KUET), BSc in Physics (KU)",
         "dept":"Physics",
         "email":"ku.nomanhossain@gmail.com",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BNVmDYP/1-1.jpg"
     },
     {
         "_id":"3",
@@ -24,7 +24,7 @@
         "qualification":"PhD, MSc in CSE, BSc in CSE",
         "dept":"CSE",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"4",
@@ -33,7 +33,7 @@
         "qualification":"MSc in CSE",
         "dept":"CSE",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"5",
@@ -42,7 +42,7 @@
         "qualification":"MSc in CSE (running) (KU)",
         "dept":"CSE",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"6",
@@ -51,16 +51,16 @@
         "qualification":"MSc in CSE (running) (KU)",
         "dept":"CSE",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"7",
         "name":"Mritunjoy Gain",
         "designation":"Lecturer",
         "qualification":"MSc in CSE (running) (KU)",
-        "dept":"TE",
-        "email":"fa@fka.cs",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "dept":"CSE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"8",
@@ -69,7 +69,7 @@
         "qualification":"MSc in CSE (running) (KU), BSc in CSE (BSMRSTU)",
         "dept":"CSE",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"9",
@@ -78,7 +78,7 @@
         "qualification":"MSc in CSE (running) (KU), BSc in CSE (JUST)",
         "dept":"CSE",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"10",
@@ -87,7 +87,7 @@
         "qualification":"MSc in CSE (running) (KU), BSc in CSE (KU)",
         "dept":"CSE",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"11",
@@ -96,7 +96,7 @@
         "qualification":"MSc in CSE (running) (KUET), BSc in CSE (BSMRSTU)",
         "dept":"CSE",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"12",
@@ -105,7 +105,7 @@
         "qualification":"PhD, MSc, BSc in Civil Engineering",
         "dept":"CE",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"13",
@@ -114,7 +114,7 @@
         "qualification":"BSc in Civil Engineering (KUET)",
         "dept":"CE",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"14",
@@ -123,7 +123,7 @@
         "qualification":"BSc in Civil Engineering",
         "dept":"CE",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"15",
@@ -132,7 +132,7 @@
         "qualification":"MSc in Civil Engineering (running) (KUET)",
         "dept":"CE",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/HnfM0FV/1-6.jpg"
     },
     {
         "_id":"16",
@@ -141,7 +141,7 @@
         "qualification":"MSc in Civil Engineering (running) (KUET)",
         "dept":"CE",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"17",
@@ -150,7 +150,7 @@
         "qualification":"BSc in Civil Engineering(KUET)",
         "dept":"CE",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"18",
@@ -159,7 +159,7 @@
         "qualification":"MSc in Bio-Medical Engineering (running) (KUET)",
         "dept":"EEE",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"19",
@@ -168,7 +168,7 @@
         "qualification":"BSc in ECE",
         "dept":"EEE",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"20",
@@ -177,7 +177,7 @@
         "qualification":"BSc in EEE",
         "dept":"EEE",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"21",
@@ -186,7 +186,7 @@
         "qualification":"BSc in EEE",
         "dept":"EEE",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"22",
@@ -195,7 +195,7 @@
         "qualification":"BSc in ECE (KU)",
         "dept":"EEE",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"23",
@@ -204,25 +204,25 @@
         "qualification":"PhD in CSE, BSc in Mathematics",
         "dept":"Mathemetics",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"24",
         "name":"M.M Jubayer Hossain",
         "designation":"Asst. Professor",
         "qualification":"MPhil in Math (running) (KUET), MSc & BSc in Math (KU)",
-        "dept":"Mathemetics",
+        "dept":"Mathematics",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"25",
         "name":"Liakot Ali",
         "designation":"Lecturer",
         "qualification":"MSc, BSc in Mathematics",
-        "dept":"Mathemetics",
+        "dept":"Mathematics",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/02FcPLy/1-3.jpg"
     },
     {
         "_id":"26",
@@ -231,7 +231,7 @@
         "qualification":"MSc in Physics & Electronics",
         "dept":"Physics",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"27",
@@ -240,7 +240,7 @@
         "qualification":"MSc in Physics (KU)",
         "dept":"Physics",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"28",
@@ -249,7 +249,7 @@
         "qualification":"MSc in Physics (running) (KUET)",
         "dept":"Physics",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"29",
@@ -258,7 +258,7 @@
         "qualification":"MSc in Chemistry",
         "dept":"Chemistry",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
         "_id":"30",
@@ -267,6 +267,96 @@
         "qualification":"PhD in Chemistry (running) (KUET)",
         "dept":"Chemistry",
         "email":"",
-        "image":"https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg"
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"31",
+        "name":"Shovon Mondol",
+        "designation":"Lecturer",
+        "qualification":"MSc in CSE (running) (KUET)",
+        "dept":"CSE",
+        "email":"shovon.ice@gmail.com",
+        "image":"https://i.ibb.co/MgmxZnb/1-9.jpg"
+    },
+    {
+        "_id":"32",
+        "name":"Aparna Haldar",
+        "designation":"Lecturer",
+        "qualification":"MSc in CSE",
+        "dept":"CSE",
+        "email":"aparnahaldarku@gmail.com ",
+        "image":"https://i.ibb.co/10pPdpT/1-2.jpg"
+    },
+    {
+        "_id":"33",
+        "name":"Shamim Parvej",
+        "designation":"Lecturer",
+        "qualification":"BSc in CSE",
+        "dept":"CSE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"34",
+        "name":"Mondira Biswas",
+        "designation":"Lecturer",
+        "qualification":"BSc in ME",
+        "dept":"ME",
+        "email":"mondira@mangrove.edu.bd",
+        "image":"https://i.ibb.co/RP7js08/1-5.jpg"
+    },
+    {
+        "_id":"35",
+        "name":"Nupur Paul",
+        "designation":"Lecturer",
+        "qualification":"",
+        "dept":"Statistics",
+        "email":"nupurst001@gmail.com",
+        "image":"https://i.ibb.co/xHbPmFT/1-4.jpg"
+    },
+    {
+        "_id":"36",
+        "name":"Irtija Alam",
+        "designation":"Adjunct Lecturer",
+        "qualification":"",
+        "dept":"CE",
+        "email":"Irtijaalam012@gmail.com",
+        "image":"https://i.ibb.co/b6KsLZM/1-8.jpg"
+    },
+    {
+        "_id":"37",
+        "name":"Rifa Rafia Ali",
+        "designation":"Lecturer",
+        "qualification":"",
+        "dept":"TE",
+        "email":"rafiarifa333@gmail.com",
+        "image":"https://i.ibb.co/2y1Pdy6/1-7.jpg"
+    },
+    {
+        "_id":"38",
+        "name":"Gazi Shah Makhdoom",
+        "designation":"Lecturer",
+        "qualification":"",
+        "dept":"EEE",
+        "email":"gsmmakhdoom@gmail.com",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"39",
+        "name":"Jahangir Polash",
+        "designation":"Lecturer",
+        "qualification":"MSc in Economics",
+        "dept":"Economics",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"40",
+        "name":"Shafiqul Islam",
+        "designation":"Lecturer",
+        "qualification":"MBA, BBA",
+        "dept":"Accounting",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     }
 ]
