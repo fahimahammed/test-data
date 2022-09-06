@@ -2,11 +2,11 @@
     {
         "_id": "1",
         "type": "computer-club",
-        "logo": "https://i.ibb.co/LSZRjN5/icclogo.jpg",
+        "logo": "https://i.ibb.co/zH79yQh/c-logo.jpg",
         "name": "Imperial Computing Access Nation (ICAN)",
-        "description1": "The Computer Club is an educational and fun group. The club explores both computer architecture and new application software.  We try to help anyone with his or her computer problems.  We also know quite a bit about programming and networking. Our mission is to promote computer programming and to expand the scope of computer knowledge within this school.",
-        "description2": "North South University Computer and Engineering Club (NSU CEC) is the one and only Engineering club in ECE department of North South University, established in Fall 2015, affiliated from three of the most reputed clubs of NSU, which are NSU Computer Club (NSUCC), NSU Wireless Forum (NSU WF) and NSU Society of Science, Engineering and Technology (NSU SSET). NSUCEC has devoted itself towards one large goal, ‘Creating Tech Leaders of Tomorrow’, with all the active members of CC, WF, and SSET. The main objective of NSUCEC is to promote the ECE department of NSU to offer an extensive study of the IT and Telecom industries of Bangladesh through seminars, workshops, publications and study tours. It is also the mission of NSUCEC to create a relationship between industries and the academy.",
-        "description3": "NSU CEC organized Cybernauts 2018 from 18th to 25th March 2018 with segments including National Programming Contest, Engineering Project Showcase (Senior and Junior Level), Line Follower Robot Contest and Cyber Athletics.",
+        "description1": "Imperial Computing Access Nation is a computer club of Imperial College of Engineering. It is an non-profit organization to share and teach computing information skills and techniques. Our prime focus is to keep the enthusiastic students of Imperial College of Engineering updated with the latest technology and connect them with the era of Information Technology at large.  We started our journey on 28th December,  2021 initiated by Fahim Ahammed Firoz, present General Secretary of this club and some co-founders all are from the batch of 1st and 2nd at the department of CSE. ",
+        "description2": "Imperial Computing Access Nation (ICAN) is the one and only Computer club in CSE department of Imperial College of Engineering. The club provides a strong platform for the engineering students to practically implement their innovative ideas in computer for different applications. The Club offers indispensible guidance, workshops and organizes various events for students to explore their full potential",
+        "description3": "Our Club is an all volunteer Non-for-Profit organization to share and teach computing information, skills and techniques in a congenial atmosphere.Our prime focus is to keep the enthusiastic students of Imperial College  of Engineering updated with the latest technology and connect them with the era of Information Technology at large.",
         "clubPhoto": [
             "https://i.ibb.co/vJ4GQWz/146759718-879616875939544-8916343283339291234-n.jpg",
             "https://i.ibb.co/2nJ2TW2/145540825-879616702606228-6560995042700206364-n.jpg",
@@ -19,7 +19,7 @@
     {
         "_id": "2",
         "type": "cultural-club",
-        "logo": "https://i.ibb.co/zH79yQh/c-logo.jpg",
+        "logo": "https://i.ibb.co/LSZRjN5/icclogo.jpg",
         "name": "Imperial Cultural Club",
         "description1": "Imperial Cultural Club (ICC) is a Voluntary organization of Imperial College of Engineering. ICC is responsible for all the cultural events in the Institute around the year. Imperial cultural club strives to bring out the hidden talent of the students of the college. It is the place where students can showcase what they have got. It helps to discover their talent. Cultural events include competitions such as instrumental, singing, dance etc. Every year this club organizes activities such as Talent Hunt, Fresher’s Party, Farewell, Fest and Alumni Meet.",
         "description2": "",
