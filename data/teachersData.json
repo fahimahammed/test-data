@@ -358,5 +358,14 @@
         "dept":"Accounting",
         "email":"",
         "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"41",
+        "name":"Md. Nurnoby Mallik (Rony)",
+        "designation":"Lecturer",
+        "qualification":"BSc in CSE",
+        "dept":"CSE",
+        "email":"nurnobycmt@gmail.com",
+        "image":"https://i.ibb.co/dMsGdrN/Picture.jpg"
     }
 ]
