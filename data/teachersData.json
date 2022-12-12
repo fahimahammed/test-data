@@ -367,5 +367,42 @@
         "dept":"CSE",
         "email":"nurnobycmt@gmail.com",
         "image":"https://i.ibb.co/dMsGdrN/Picture.jpg"
+    },
+    {
+        "_id":"42",
+        "name":"Atoshi Das chaity",
+        "designation":"Lecturer",
+        "qualification":"BSc in ME (RUET)",
+        "dept":"ME",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"43",
+        "name":"Mukit Azad khan",
+        "designation":"Lecturer",
+        "qualification":"BSc in ME (KUET)",
+        "dept":"ME",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"44",
+        "name":"Abdullah Al Mamun",
+        "designation":"Lecturer",
+        "qualification":"BSc in ME (KUET)",
+        "dept":"ME",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"45",
+        "name":"Md. Parvez Mosharaf",
+        "designation":"Lecturer",
+        "qualification":"B.sc in Statistics (RU)",
+        "dept":"Statistics",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     }
+    
 ]
