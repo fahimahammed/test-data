@@ -160,6 +160,52 @@
         "dept":"EEE",
         "email":"",
         "image":"https://i.ibb.co/bRzPgFq/Setu-Karmakar.jpg"
+    },
+    {
+        "_id":"11",
+        "name":"Abul-ala Walid",
+        "designation":"Lecturer",
+        "qualification":"MSc in CSE (running) (KUET), BSc in CSE (BSMRSTU)",
+        "dept":"CSE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"13",
+        "name":"Debashish Paul",
+        "designation":"Lecturer",
+        "qualification":"BSc in Civil Engineering (KUET)",
+        "dept":"CE",
+        "email":"",
+        "image":"https://i.ibb.co/LY8sQ61/26429.jpg"
+    },
+    {
+        "_id":"14",
+        "name":"Md Shahiduzzaman Sunam",
+        "designation":"Lecturer",
+        "qualification":"BSc in Civil Engineering",
+        "dept":"CE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"22",
+        "name":"Anika Jaman",
+        "designation":"Lecturer",
+        "qualification":"BSc in ECE (KU)",
+        "dept":"EEE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },   
+    {
+        "_id":"31",
+        "name":"Shovon Mondol",
+        "designation":"Lecturer",
+        "qualification":"MSc in CSE (running) (KUET)",
+        "dept":"CSE",
+        "email":"shovon.ice@gmail.com",
+        "image":"https://i.ibb.co/MgmxZnb/1-9.jpg"
     }
+
     
 ]
