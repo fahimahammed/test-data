@@ -6,7 +6,7 @@
         "description": "Seminar on Career Guideline. Career guidance will help the students to fulfill their aspirations by setting up realistic goals.",
         "time": "10.00 AM",
         "date": "11-09-2021",
-        "regStatus": true
+        "regStatus": false
     },
     {
         "_id": "2",
