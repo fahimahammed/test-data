@@ -1,4 +1,11 @@
 {
+    "ruAdmissionStatus": true,
+    "title": "Undergraduate Admission Test 2021-22",
+    "circularLink": "#",
+    "applyOnline": "#",
+    "admissionNotice": "#",
+    "applicationGuideline": "#",
+    "paymentInstruction": "#",
     "appyLastDate":"To be announced",
     "admissionTest":"To be announced"
 }
