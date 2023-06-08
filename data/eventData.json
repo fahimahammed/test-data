@@ -1,38 +1,39 @@
 [
     {
+        "_id": "4",
+        "title": "CRICKET TOURNAMENT",
+        "img": "https://i.ibb.co/ZYTvx7N/6403767.jpg",
+        "description": "In the ICE Inter Discipline Cricket Tournament 2023, Team #EEE_Thunders emerged as the champions, while Team #CSE_Kings were the runners-up.",
+        "time": "04.00 PM",
+        "date": "07-03-2023",
+        "regStatus": false
+    },
+    {
+        "_id": "41",
+        "title": "বসন্ত বরণ",
+        "img": "https://i.ibb.co/nBCt1sN/image.png",
+        "description": "Palash, Shimul, and Krishnochura bloom as Falgun arrives, inspiring youthful hearts at Imperial College of Engineering-Rajshahi University Affiliated.",
+        "time": "11.00 AM",
+        "date": "15-02-2023",
+        "regStatus": false
+    },
+      {
         "_id": "1",
-        "title": "SEMINER",
-        "img": "https://i.ibb.co/T2Yjjsw/146450113-879616389272926-566913791154127016-n.jpg",
-        "description": "Seminar on Career Guideline. Career guidance will help the students to fulfill their aspirations by setting up realistic goals.",
+        "title": "পিঠা উৎসব",
+        "img": "https://i.ibb.co/8mHnH6Q/image.png",
+        "description": "Celebrate the joy of Pitha, indulging in a delightful array of traditional homemade Bengali sweet treats.",
         "time": "10.00 AM",
-        "date": "11-09-2021",
+        "date": "09-01-2023",
         "regStatus": false
     },
     {
         "_id": "2",
-        "title": "VOLUNTARY COURSE",
-        "img": "https://i.ibb.co/RvVsNbt/e1.jpg",
-        "description": "Online voluntary course on Environmental sutainability using life cycle assessment by Dr Nawshad Haque, Senior Scientist @ Australian National Since Agency.",
-        "time": "05.00 PM",
-        "date": "21-05-2022",
-        "regStatus": false
-    },
-    {
-        "_id": "4",
-        "title": "CAREER TALK",
-        "img": "https://i.ibb.co/nPL8jTf/ca.jpg",
-        "description": "Career talk. Spreaker: Brigadier General ATM Anisuzzaman, BP, nndc, psc Principal, Military Collegiate School Khulna (MCSK)",
-        "time": "04.00 PM",
-        "date": "05-02-2022",
-        "regStatus": false
-    },
-    {
-        "_id": "3",
-        "title": "WABINAR",
-        "img": "https://i.ibb.co/9cx6hKv/WEBINAR-BANNER.jpg",
-        "description": "Wabinar on Complete Roadmap & Career Opportunities of Web Development. Speaker: Jhankar Mahabub, Youtuber, Writter, Founder and CEO, Programming Hero",
+        "title": "CSE FEST",
+        "img": "https://i.ibb.co/V2Myhbs/image.png",
+        "description": "Mangrove and ICE students, come showcase your skills in gaming, programming, design, presentations, quizzes, ideathons, projects, and cyber security.",
         "time": "10.00 AM",
-        "date": "11-09-2021",
+        "date": "08-01-2023",
         "regStatus": false
     }
+  
 ]
