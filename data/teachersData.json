@@ -37,8 +37,8 @@
     },
     {
         "_id":"25",
-        "name":"Liakot Ali",
-        "designation":"Lecturer",
+        "name":"Md. Liakat Ali",
+        "designation":"Deputy Exam Controller",
         "qualification":"MSc, BSc in Mathematics",
         "dept":"Mathematics",
         "email":"",
@@ -46,7 +46,7 @@
     },
     {
         "_id":"27",
-        "name":"Asif Hossain",
+        "name":"MD. Asif Hossain",
         "designation":"Chairman",
         "qualification":"MSc in Physics (KU)",
         "dept":"ME",
@@ -102,7 +102,7 @@
         "_id":"32",
         "name":"Aparna Haldar",
         "designation":"Chairman",
-        "qualification":"MSc in CSE",
+        "qualification":"MSc in CSE (running), KU",
         "dept":"CSE",
         "email":"aparnahaldarku@gmail.com ",
         "image":"https://i.ibb.co/Qrbd0WW/Aparna-Halder.jpg"
@@ -120,7 +120,7 @@
         "_id":"15",
         "name":"Nur-E-Jannat Pollen",
         "designation":"Chairman",
-        "qualification":"MSc in Civil Engineering (running) (KUET)",
+        "qualification":"MSc in Civil Engineering (KUET)",
         "dept":"CE",
         "email":"",
         "image":"https://i.ibb.co/M9NTqcv/Nur-E-Jannat-Pollen.jpg"
@@ -161,42 +161,6 @@
         "email":"",
         "image":"https://i.ibb.co/bRzPgFq/Setu-Karmakar.jpg"
     },
-    {
-        "_id":"11",
-        "name":"Abul-ala Walid",
-        "designation":"Lecturer",
-        "qualification":"MSc in CSE (running) (KUET), BSc in CSE (BSMRSTU)",
-        "dept":"CSE",
-        "email":"",
-        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
-    },
-    {
-        "_id":"13",
-        "name":"Debashish Paul",
-        "designation":"Lecturer",
-        "qualification":"BSc in Civil Engineering (KUET)",
-        "dept":"CE",
-        "email":"",
-        "image":"https://i.ibb.co/LY8sQ61/26429.jpg"
-    },
-    {
-        "_id":"14",
-        "name":"Md Shahiduzzaman Sunam",
-        "designation":"Lecturer",
-        "qualification":"BSc in Civil Engineering",
-        "dept":"CE",
-        "email":"",
-        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
-    },
-    {
-        "_id":"22",
-        "name":"Anika Jaman",
-        "designation":"Lecturer",
-        "qualification":"BSc in ECE (KU)",
-        "dept":"EEE",
-        "email":"",
-        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
-    },   
     {
         "_id":"31",
         "name":"Shovon Mondol",
