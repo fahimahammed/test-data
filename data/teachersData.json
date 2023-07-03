@@ -18,6 +18,15 @@
         "image":"https://i.ibb.co/BNVmDYP/1-1.jpg"
     },
     {
+        "_id":"3",
+        "name":"Prof. Dr Kazi Rokibul Alam",
+        "designation":"Professor (Part-time)",
+        "qualification":"PhD, MSc in CSE, BSc in CSE",
+        "dept":"CSE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
         "_id":"30",
         "name":"Md Nazim Uddin",
         "designation":"Course Coordinator",
@@ -81,6 +90,15 @@
         "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
+        "_id":"3700",
+        "name":"Dr. Md Abdul Jalil",
+        "designation":"Professor (Part-time)",
+        "qualification":"Professor, Dept. of TE, KUET",
+        "dept":"TE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
         "_id":"37",
         "name":"Rifa Rafia Ali",
         "designation":"Lecturer",
@@ -93,6 +111,24 @@
         "_id":"3744",
         "name":"Syed Zubair Hussain",
         "designation":"Lecturer",
+        "qualification":"",
+        "dept":"TE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"37001",
+        "name":"Antara Tabassum Niti",
+        "designation":"Professor",
+        "qualification":"",
+        "dept":"TE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"37002",
+        "name":"Md. Amirullah Amir",
+        "designation":"Professor",
         "qualification":"",
         "dept":"TE",
         "email":"",
@@ -117,6 +153,60 @@
         "image":"https://i.ibb.co/6WJvqYt/Sristy-Saha.jpg"
     },
     {
+        "_id":"5",
+        "name":"Md Rajib Hossain",
+        "designation":"Lecturer",
+        "qualification":"MSc in CSE (KU)",
+        "dept":"CSE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"6",
+        "name":"Imran Hossain Munna",
+        "designation":"Lecturer",
+        "qualification":"MSc in CSE (KU)",
+        "dept":"CSE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"7",
+        "name":"Mritunjoy Gain",
+        "designation":"Lecturer",
+        "qualification":"MSc in CSE (KU)",
+        "dept":"CSE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"8",
+        "name":"Shibly Shadik",
+        "designation":"Lecturer",
+        "qualification":"MSc in CSE (running) (KU), BSc in CSE (BSMRSTU)",
+        "dept":"CSE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"13",
+        "name":"Debashish Paul",
+        "designation":"Lecturer",
+        "qualification":"BSc in Civil Engineering (KUET)",
+        "dept":"CE",
+        "email":"",
+        "image":"https://i.ibb.co/LY8sQ61/26429.jpg"
+    },
+    {
+        "_id":"14",
+        "name":"Md Shahiduzzaman Sunam",
+        "designation":"Lecturer",
+        "qualification":"BSc in Civil Engineering",
+        "dept":"CE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
         "_id":"15",
         "name":"Nur-E-Jannat Pollen",
         "designation":"Chairman",
@@ -135,10 +225,46 @@
         "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     },
     {
+        "_id":"153",
+        "name":"Kanij Rupa",
+        "designation":"Lecturer",
+        "qualification":"BSc in Civil Engineering (KUET)",
+        "dept":"CE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"420",
+        "name":"Dr. Md Shahidul Islam",
+        "designation":"Professor (Part-time)",
+        "qualification":"",
+        "dept":"ME",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"4201",
+        "name":"Dr. Md Rafikujjaman",
+        "designation":"Asst. Professor (Part-time)",
+        "qualification":"",
+        "dept":"ME",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
         "_id":"42",
         "name":"Atoshi Das chaity",
         "designation":"Lecturer",
         "qualification":"BSc in ME (RUET)",
+        "dept":"ME",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"4203",
+        "name":"Al Aman",
+        "designation":"Lecturer",
+        "qualification":"",
         "dept":"ME",
         "email":"",
         "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
@@ -153,6 +279,15 @@
         "image":"https://i.ibb.co/Sn1xKxV/Meghnath-Das.jpg"
     },
     {
+        "_id":"154",
+        "name":"Prof. Dr Nurunnobi Molla",
+        "designation":"Professor (Part-time)",
+        "qualification":"",
+        "dept":"EEE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
         "_id":"4250",
         "name":"Setu Karmakar",
         "designation":"Lecturer",
@@ -162,6 +297,51 @@
         "image":"https://i.ibb.co/bRzPgFq/Setu-Karmakar.jpg"
     },
     {
+        "_id":"1543",
+        "name":"Prof. Md Shahjahan",
+        "designation":"Professor (Part-time)",
+        "qualification":"Professor, Dept. of EEE, KUET",
+        "dept":"EEE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"15413",
+        "name":"Abu Shakil Ahmed",
+        "designation":"Lecturer",
+        "qualification":"",
+        "dept":"EEE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"154131",
+        "name":"Md Al-Amin",
+        "designation":"Lecturer",
+        "qualification":"",
+        "dept":"EEE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"18",
+        "name":"Mounita Gosh",
+        "designation":"Lecturer",
+        "qualification":"MSc in Bio-Medical Engineering (running) (KUET)",
+        "dept":"EEE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"19",
+        "name":"Leoza Haque",
+        "designation":"Lecturer",
+        "qualification":"BSc in ECE",
+        "dept":"EEE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
         "_id":"31",
         "name":"Shovon Mondol",
         "designation":"Lecturer",
@@ -169,7 +349,143 @@
         "dept":"CSE",
         "email":"shovon.ice@gmail.com",
         "image":"https://i.ibb.co/MgmxZnb/1-9.jpg"
+    },
+    {
+        "_id":"23",
+        "name":"Abdur Rakib Jalal",
+        "designation":"Professor (Part-time)",
+        "qualification":"PhD in CSE, BSc in Mathematics",
+        "dept":"Mathematics",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"24",
+        "name":"M.M Jubayer Hossain",
+        "designation":"Asst. Professor",
+        "qualification":"MPhil in Math (running) (KUET), MSc & BSc in Math (KU)",
+        "dept":"Mathematics",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"240",
+        "name":"Khondokar Mirazul Mojmenin",
+        "designation":"Lecturer (Part-time)",
+        "qualification":"BSc in ECE (KU)",
+        "dept":"EEE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"2401",
+        "name":"Shardar Shams Mahmud",
+        "designation":"Lecturer (Part-time)",
+        "qualification":"BSc in CSE (KU)",
+        "dept":"CSE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"26",
+        "name":"S.K Sirajul Islam",
+        "designation":"Professor (Part-time)",
+        "qualification":"MSc in Physics & Electronics",
+        "dept":"Physics",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"28",
+        "name":"Rajon Shaha Antu",
+        "designation":"Lecturer",
+        "qualification":"MSc in Physics (running) (KUET)",
+        "dept":"Physics",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"280",
+        "name":"Afsana Kabir Prity",
+        "designation":"Lecturer",
+        "qualification":"",
+        "dept":"English",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"281",
+        "name":"Md Moinul Islam",
+        "designation":"Lecturer",
+        "qualification":"",
+        "dept":"English",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"282",
+        "name":"Sunanda shill",
+        "designation":"Lecturer (Part-time)",
+        "qualification":"BSc in CSE (JUST)",
+        "dept":"CSE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"283",
+        "name":"Shaymal Kumar Mondol",
+        "designation":"Lecturer (Part-time)",
+        "qualification":"BSc in ECE (KUET)",
+        "dept":"EEE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"284",
+        "name":"Irtija Alam",
+        "designation":"Lecturer (Part-time)",
+        "qualification":"BSc in URP (KUET)",
+        "dept":"CE",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"285",
+        "name":"Md. Abu Naeem Khan",
+        "designation":"Lecturer (Part-time)",
+        "qualification":"BSc in IPE (SUST)",
+        "dept":"ME",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"286",
+        "name":"Dip Shaha",
+        "designation":"Lecturer (Part-time)",
+        "qualification":"MSc in Economics (KU)",
+        "dept":"Economics",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
+    },
+    {
+        "_id":"34",
+        "name":"Mondira Biswas",
+        "designation":"Lecturer",
+        "qualification":"BSc in ME",
+        "dept":"ME",
+        "email":"mondira@mangrove.edu.bd",
+        "image":"https://i.ibb.co/RP7js08/1-5.jpg"
+    },
+    {
+        "_id":"43",
+        "name":"Mukit Azad khan",
+        "designation":"Lecturer",
+        "qualification":"BSc in ME (KUET)",
+        "dept":"ME",
+        "email":"",
+        "image":"https://i.ibb.co/BBVTctY/person-avatar-icon-free-vector.jpg"
     }
+
 
     
 ]
