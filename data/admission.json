@@ -1,10 +1,10 @@
 {
     "ruAdmissionStatus": true,
     "title": "Undergraduate Admission Test 2022-23",
-    "circularLink": "https://aca.ru.ac.bd/",
+    "circularLink": "https://aca.ru.ac.bd/site/application-guideline",
     "applyOnline": "#",
-    "admissionNotice": "https://aca.ru.ac.bd/",
-    "applicationGuideline": "#",
+    "admissionNotice": "https://aca.ru.ac.bd/site/admission-notice",
+    "applicationGuideline": "https://aca.ru.ac.bd/site/application-guideline",
     "paymentInstruction": "#",
     "appyLastDate":"31 August, 2023",
     "admissionTest":"To be announced",
