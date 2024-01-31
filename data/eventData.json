@@ -1,5 +1,14 @@
 [
     {
+        "_id": "56000",
+        "title": "Let's Code Your Career through Programming",
+        "img": "https://i.ibb.co/ZYTvx7N/6403767.jpg",
+        "description": "To inspire and guide students from various departments to explore programming as a valuableskill, offering insights into potential career paths.",
+        "time": "04.00 PM",
+        "date": "07-03-2023",
+        "regStatus": false
+    },
+    {
         "_id": "4",
         "title": "CRICKET TOURNAMENT",
         "img": "https://i.ibb.co/ZYTvx7N/6403767.jpg",
